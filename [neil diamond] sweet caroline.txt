@@ -137,6 +137,17 @@ E-|--------------------------------------------
       A         D 
      "Sweet Caroline...   oh,   oh,   oh..."
 
+You can also play it like this, which involves playing triads higher up on the fretboard:
+
+e-|---0---------2---------10----9-----2--------
+B-|---2---------3---------10----10----3--------
+G-|---2---------2---------12----9-----2--------
+D-|---2---------0---------------------4--------
+A-|---0----------------------------------------
+E-|--------------------------------------------
+      A         D 
+     "Sweet Caroline...   oh,   oh,   oh..."
+
 Bass Walk-Up from E to A
 In the middle of the chorus, here is one way to transition up from the E to an A via a bassnote walk-up. This is done entirely on the 6th (low E) string. Nice and straightforward, listen along for reference.
 
@@ -151,10 +162,10 @@ E-|---------------------------------0----------0---2---4----|--------
 
 Or, you could do it on the higher strings like this.
 
-e-|---2-----------------------------0----------0---0---0----|---0----
-B-|---3-----------------------------0----------0---0---0----|---2----
-G-|---2-----------------------------1----------1---2---4----|---2----
-D-|---4-----------------------------2-----------------------|---2----
+e-|---2-----------------------------0-----------------------|---0----
+B-|---3-----------------------------0------------------0----|---2----
+G-|---2-----------------------------1----------1---2---1----|---2----
+D-|---4-----------------------------2----------2---2--------|---2----
 A-|---------------------------------2-----------------------|---0----
 E-|---------------------------------0-----------------------|--------
       D                             E                           A 
@@ -176,6 +187,10 @@ E-|-----------------------------------0---------------------|--------
 ===============================================================================
 LISTEN & PLAY
 ===============================================================================
+
+Songnotes Guitar Lesson
+Here is a video I made showing how to play this song, using the chords and tabs shown on this page. If this is helpful, subscribe to the Songnotes YouTube channel for more tutorials and lessons like this.
+https://www.youtube.com/watch?v=XHpS7HDaymo
 
 Recommended Acoustic Cover
 Here's a great solo acoustic cover of this song by Al Robitaille. Definitely check this one out to see how a solo acoustic guitar can rock this song out. He uses many/most of the bass walkups & walkdowns I show above. Note, he does not use a capo on the 2nd fret (which you need to play along with the Neil Diamond version).
