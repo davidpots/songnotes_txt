@@ -75,12 +75,13 @@ To play along with the record, you'll need a capo on the 3rd fret. If you don't 
 Guitar Chords Used
 Here is how to play the guitar chords used in this song. Fairly straightforward group of chords in the key of C.
 
-e-|---0----3----0----1---
-B-|---1----0----1----1---
-G-|---0----0----2----2---
-D-|---2----0----2----3---
-A-|---3----2----0----3---
-E-|--------3---------1---
+e-|---0----3----0----1---------
+B-|---1----0----1----1----0----
+G-|---0----0----2----2----0----
+D-|---2----0----2----3----0----
+A-|---3----2----0----3----2----
+E-|--------3---------1---------
+      C    G    Am   F   G/B  
 
 ===============================================================================
 LISTEN & PLAY
@@ -115,11 +116,9 @@ CHORUS
 ABOUT THIS SONG
 ===============================================================================    
 
-Song: ____
-Artist: ____
-Album: ____
-Released: Month Day, Year
-Label: ____
-Wikipedia URL: ____
-Rdio URL: ____
-YouTube (official video): ____
+Song: The Hole
+Artist: Laura Stevenson
+Album: Wheel
+Released: 2013
+Label: Don Giovanni Records
+Rdio URL: http://rd.io/x/QVzN1jdek0oP/
