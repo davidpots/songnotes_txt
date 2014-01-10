@@ -1,86 +1,102 @@
-SONG_TITLE
-by Artist_Name
+NO RAIN
+by Blind Melon
 ===============================================================================
-INTRO
-    | E . . . | . . . . | E . . . | . . . . |    with riff, let chords ring
 
-    | E . . . | D . . . | E . . . | D . . . |
+INTRO
+    | E . . . | . . . . | E . . . | . . . . |    ...with riff, let chords ring
+
+    | E . . . | D . . . | E . . . | D . . . |    ...with full strumming
     | E . . . | D . . . | E . . . | D . . . |
 
 VERSE
-    E                        D                    Dsus4  
+    E                        D 
     All I can say is that my life is pretty plain
-      A                         G      E       E7  E
+      A                         G      E 
     I like watching the puddles gather rain
-        E                    D                         Dsus4 
+        E                    D 
     And all I can do is just pour some tea for two
-        A                           G       E     E7  E
+        A                           G       E 
     And speak my point of view, but its not sane
-            E [let ring]
-    Its not sane…
- 
-    E              D          E             D
-    ...I just want someone to say to me.... Oh oh oh oh
-    E              D                 E         D
-    ...I’ll always be there when you wake
-    E                     D              E            D
-    ...You know I like to keep my cheeks dry today…
-    E               D                   E                  D
-    ...So stay with me and I’ll have it made (I’ll have it made)
+            E (let ring)
+    Its not sane...
 
-    And I don’t understand why I sleep all day
-    And I start to complain when there’s no rain
+CHORUS
+        E              D          E             D 
+        ...I just want someone to say to me.... Oh, oh, oh, oh
+        E              D                 E         D 
+        ...I'll always be there when you wake... 
+        E                     D              E            D 
+        ...You know I like to keep my cheeks dry today...
+        E               D                   E                  D 
+        ...So stay with me and I'll have it made (I'll have it made)
+
+          E                      D 
+    And I don't understand why I sleep all day
+          A                      G          E 
+    And I start to complain when there's no rain
+        E                      D 
     And all I can do is read a book to stay awake
-    And it rips my life away but it’s a great escape
+           A                            G      E 
+    And it rips my life away but it's a great escape
+     E         E         E 
     Escape... escape... escape... 
 
-    	[solo]
+        (solo, using chorus chords)
 
-    [let all chords ring]
+    (let all chords ring)
+    E                        D 
     All I can say is that my life is pretty plain
-    You don’t like my point of view, you think that I’m insane
-    It’s not sane... It’s not sane…
+              A                                     G     E 
+    You don't like my point of view, you think that I'm insane
+             E                E 
+    It's not sane... It's not sane...
 
-    I just want someone to say to me... Oh oh oh oh
-    I’ll always be there when you wake
-    You know I like to keep my cheeks dry today…
-    So stay with me and I’ll have it made (I’ll have it made)
+        E              D          E             D 
+        ...I just want someone to say to me.... Oh, oh, oh, oh
+        E              D                 E         D 
+        ...I'll always be there when you wake... 
+        E                     D              E            D 
+        ...You know I like to keep my cheeks dry today...
+        E               D                   E                  D 
+        ...So stay with me and I'll have it made (I'll have it made)
 
-    And I’ll have it made… And I’ll have it made…
-    And I’ll have it made… And I’ll have it made…
+                         E      D                    E     D 
+        And I'll have it made...... And I'll have it made......
+                         E      D                    E     D 
+        And I'll have it made...... And I'll have it made......
 
-    Oh oh oh oh… Oh oh oh oh…
-    Oh oh oh oh… Oh oh oh oh…
-
-
-
-
-
-
-
-
-
-
-
-
-
+                 E    D             E    D 
+        Oh oh oh oh....... Oh oh oh oh.......
+                 E    D             (no chord)
+        Oh oh oh oh....... Oh oh oh oh.......
 
 ===============================================================================
 NOTES & TABS
 ===============================================================================
 
-Simple Intro Riff
+Guitar Chords Used
+Here is how to play the chords used in this song on a guitar. I've also included some variations to the chords you might want to throw in for flavor -- though these are by no means required, of course.
 
-Easier way.
+e-|---0---0---2---3---     e|---0-------3-----0---
+B-|---0---2---3---0---     B|---3-------3-----3---
+G-|---1---2---2---0---     G|---2-------2-----1---
+D-|---2---2---0---0---     D|---0-------0-----2---
+A-|---2---0-------2---     A|-----------------2---
+E-|---0-----------3---     E|-----------------0---
+      E   A   D   G           Dsus2   Dsus4   E7 
 
-e-|---5--5/7--0---      ---5--5/7------
-B-|---------------      -----------5---
-G-|---------------      ---------------
-D-|---------------  or  ---------------  ...repeat 3x
-A-|---------------      ---------------
-E-|---------------      ---------------
 
-Or, higher on the fretboard.
+Intro Riff, Simplified
+The easiest way to play the intro riff is beginning on the 5th fret. I show two options here -- one where you end by letting the high E string ring, and another where you play the 5th fret on the B string. Explore both, use whichever you like.
+
+e-|---5--5/7--0---      e-|---5--5/7------
+B-|---------------      B-|-----------5---
+G-|---------------      G-|---------------
+D-|---------------  or  D-|---------------  ...repeat 3x
+A-|---------------      A-|---------------
+E-|---------------      E-|---------------
+
+If you want to explore a bit more, here is how you can play it higher on the fretboard. This position sets you up nicely for some of the extended intro riffing you can do (which I'll cover below).
 
 e-|---------------------
 B-|---10---10/12--------
@@ -90,7 +106,8 @@ A-|---------------------
 E-|---------------------
 
 
-Intro Riff, continued
+Intro Riff, Expanded
+To play the complete intro, here is the main riff followed by another riff that comes in once the acoustic rhythm guitar gets going. You have one section repeated three times, which then transitions to a closing section that is played once. Note that all these notes are found in the scale for the E mixolydian mode (http://www.guitar-chords.org.uk/modeimages/emixolydianfretboard.gif), which you may want to take a look at if you're going to explore soloing to this song.
 
 e-|---------------------|----------------------------------------|-
 B-|-----10---10/12------|---10--9--------------------------------|-
@@ -109,74 +126,60 @@ E-|---------------------|----------------------------------------|-
                        -|----------------------------------------|-
                              ...play this 1 time, then start verse
 
+Intro Riff, Expanded for Solo Acoustic Guitar
+If you want to mimic the sound of the full intro on a single acoustic guitar, here is what I recommend doing. This is based on the intro riff played at the 5th fret, and always resolves to the open E chord. For the D chord heard doing the intro, I'm throwing in a Dsus2 and adding some precise strumming to pull some melodic voicing out of the high E and B strings. The tabs here show the notes (and approximate the rhythm), so you're best off listening along for reference. This too is by no means required.
 
-http://www.guitar-chords.org.uk/modeimages/emixolydianfretboard.gif
-
-
-
-e-|-----5---5/7---0-----|---2---0----------------0-----------0----||
-B-|---------------0-----|---3-----------3-----3--------3-----0----||
-G-|---------------1-----|---2-----------2-----2--------2-----1----||
-D-|---------------2-----|---0-----------0-----0--------0-----2----||
-A-|---------------2-----|------------------------------------2----||
-E-|---------------0-----|------------------------------------0----||
-                             ...repeat this bar 4 times, then start verse.
-
-
-
-e-|----------------------------------------------------------------------------
-B-|----------------------------------------------------------------------------
-G-|----------------------------------------------------------------------------
-D-|----------------------------------------------------------------------------
-A-|----------------------------------------------------------------------------
-E-|----------------------------------------------------------------------------
-
-
-
-
-e-|----------------------------------------------------------------------------
-B-|----------------------------------------------------------------------------
-G-|----------------------------------------------------------------------------
-D-|----------------------------------------------------------------------------
-A-|----------------------------------------------------------------------------
-E-|----------------------------------------------------------------------------
-
-
-
-e-|----------------------------------------------------------------------------
-B-|----------------------------------------------------------------------------
-G-|----------------------------------------------------------------------------
-D-|----------------------------------------------------------------------------
-A-|----------------------------------------------------------------------------
-E-|----------------------------------------------------------------------------
+e-|-----5---5/7---0-----|---2---0----------------0-----------0----|-
+B-|---------------0-----|---3-----------3-----3--------3-----0----|-
+G-|---------------1-----|---2-----------2-----2--------2-----1----|-
+D-|---------------2-----|---0-----------0-----0--------0-----2----|-
+A-|---------------2-----|------------------------------------2----|-
+E-|---------------0-----|------------------------------------0----|-
+                             ...repeat this bar 4 times, then start verse
 
 ===============================================================================
 LISTEN & PLAY
 ===============================================================================
 
-...
+Official Music Video
+Here is the official music video for this song, if you want a reminder of what it sounds like or want to listen along for reference.
+http://www.youtube.com/watch?v=3qVPNONdF58
+
+Recommended Guitar Lesson
+Here is a great lesson by Marty Schwartz going over how to play this song with both an acoustic and electric guitar. Highly recommended as always.
+http://www.youtube.com/watch?v=Z1HPls9NkOk
 
 ===============================================================================
 CHORD PROGRESSIONS
 ===============================================================================
 
+INTRO
+With riff only, let chords ring
+| E . . . | . . . . | E . . . | . . . . |
+With full strumming
+| E . . . | D . . . | E . . . | D . . . |
+| E . . . | D . . . | E . . . | D . . . |
+
 VERSE
-| . . . . | . . . . | . . . . | . . . . |
+"All I can say is that my life is pretty plain..."
+| E . . . | E . . . | D . . . | D  . . . |
+| A . . . | A . G . | E . . . | E7 . E . |
+                                 ...repeat
 
 CHORUS
-"Lorem ipsum dolor sit amet..."
-| . . . . | . . . . | . . . . | . . . . |
-| . . . . | . . . . | . . . . | . . . . |
+"I just want someone to say to me..."
+| E . . . | D . . . | E . . . | D . . . |
+                                ...repeat
 
 ===============================================================================
 ABOUT THIS SONG
 ===============================================================================    
 
-Song: ____
-Artist: ____
-Album: ____
-Released: Month Day, Year
-Label: ____
-Wikipedia URL: ____
-Rdio URL: ____
-YouTube (official video): ____
+Song: No Rain
+Artist: Blind Melon
+Album: Blind Melon
+Released: 1992
+Label: Capitol
+Wikipedia URL: http://en.wikipedia.org/wiki/No_Rain
+Rdio URL: http://rd.io/x/QVzN1jd-b1s/
+YouTube (official video): http://www.youtube.com/watch?v=3qVPNONdF58
