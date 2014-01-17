@@ -2,87 +2,123 @@ The Fox (What Does The Fox Say?)
 by Ylvis
 ===============================================================================
 
-(capo 4th fret)
-
 INTRO
-    Am ... G ... D ... D ...
+    C#m ... B ... F# ... F# ...
 
 VERSE
-    Am          G              D 
+    C#m         B              F# 
     ...Dog goes woof, cat goes meow
-                                   Am 
+                                   C#m 
     Bird goes tweet and mouse goes squeak
-    Am          G              D 
+    C#m         B              F# 
     ...Cow goes moo, frog goes croak
-                          Am 
+                          C#m 
     And the elephant goes toot
 
-    Am                  G                   D 
+    C#m                 B                   F# 
     ...Ducks say quack... and fish go blub...
-                              Am 
-    And the seal goes ow, ow, ow
-    Am                        G                    D 
+                                  C#m 
+    And the seal goes ow, ow, ow...
+    C#m                       B                    F# 
     ...But there's one sound... that no one knows...
     (no chord)
     What does the fox say?
 
 CHORUS
-        Am 
+        C#m 
         Ring-ding-ding-ding-dingeringeding! (x3)
-        D 
+        F# 
         ...What does the fox say?
-        Am 
+        C#m 
         Wa-pa-pa-pa-pa-pa-pow! (x3)
-        D 
+        F# 
         ...What does the fox say?
-        Am 
+        C#m 
         Hatee-hatee-hatee-ho! (x3)
-        D 
+        F# 
         ...What does the fox say?
-        Am 
+        C#m 
         Joff-tchoff-tchoff-tchoffo-tchoffo-tchoff! (x3)
-        D 
+        F# 
         ...What does the fox say?
 
-    Big blue eyes, pointy nose
+    C#m         B            F# 
+    ...Big blue eyes, pointy nose
+                             C#m 
     Chasing mice and digging holes
-    Tiny paws, up the hill
+    C#m     B            F# 
+    ...Tiny paws, up the hill
+                              C#m 
     Suddenly you're standing still
 
-    Your fur is red, so beautiful
-    Like an angel in disguise
-    But if you meet a friendly horse
+    C#m                 B              F# 
+    ...Your fur is red... so beautiful...
+                              C#m 
+    Like an angel in disguise...
+    C#m                 B                  F#  
+    ...But if you meet... a friendly horse...
+                            C#m            B              F# 
     Will you communicate by mo-o-o-o-orse, mo-o-o-o-orse, mo-o-o-o-orse?
+                               C#m         B           F# 
     How will you speak to that h-o-o-orse, h-o-o-orse, h-o-o-orse?
+    (no chord)
     What does the fox say?
     
+        C#m 
         Jacha-chacha-chacha-chow! (x3)
-        What does the fox say?
+        F# 
+        ...What does the fox say?
+        C#m 
         Fraka-kaka-kaka-kaka-kow! (x3)
-        What does the fox say?
+        F# 
+        ...What does the fox say?
+        C#m 
         A-hee-ahee ha-hee! (x3)
-        What does the fox say?
+        F# 
+        ...What does the fox say?
+        C#m  
         A-oo-oo-oo-ooo! (x2)
-        What does the fox say?
+        F# 
+        ...What does the fox say?
 
 BRIDGE
-            The secret of the fox, ancient mystery
-            Somewhere deep in the woods, I know you're hiding
-            What is your sound? Will we ever know?
-            Will always be a mystery what do you say?
-
-            You're my guardian angel hiding in the woods
-            What is your sound?
-            Will we ever know?
-            I want to, I want to, I want to know!
+            A                        C#m              B 
+            ...The secret of the fox... ancient mystery...
+                                  A                             A 
+            Somewhere deep in the woods... I know you're hiding... 
+                            C#m                 B 
+            ...What is your sound? Will we ever know... 
+                                   A                A        C#m 
+            Will always be a mystery... what do you say----......
+                               B                      A 
+            You're my guardian angel... hiding in the woods...
+                         A      C#m               B 
+            What is your sound...... will we ever know...
+                            A                           C#m (let ring)
+            I want to know, I want to know... I want to know!
 
 
 ===============================================================================
 NOTES & TABS
 ===============================================================================
 
+Standard Tuning, No Capo
+I'm choosing to transcribe this song without a capo. Put your guitar in standard tuning and use the chords shown on this page, and you'll be able to play along with the official song. If you can't yet play barre chords, try using a capo on the 4th fret -- which would mean C#m becomes Am, B becomes G, F# becomes D, and A becomes F.
+
+Guitar Chords Used
+Here is how to play this song's chords using a guitar. I tend to use the alternate chord positions during the chorus, simply to mix it up a bit between the verse and chorus sections.
+
+Primary Positions                 Alternate Positions
+e-|----4---------2---------       e-|----9----7--------5-----
+B-|----5----4----2----2----       B-|----9----7---11---5-----
+G-|----6----4----3----2----       G-|----9----8---11---6-----
+D-|----6----4----4----2----       D-|---11----9---11---7-----
+A-|----4----2----4----0----       A-|---11----9----9---7-----
+E-|--------------2---------       E-|----9----7--------5-----
+      C#m   B    F#   A                 C#m   B   F#   A 
+
 Intro Tab
-Here is how I play the intro to this song on a guitar. Note that on the album this is played with a synth, so a bit of interpretation is at work here. One of my main goals is to ensure I somewhat capture the bass notes heard at the start of each measure (that usher in the C#m, B, and F# chords). The biggest tip I have is to barre the 4th fret (down to the D string) while you play this entire thing, if you can... it will allow you keep your general hand position in the same relative spot. Also, understand you're basically always playing notes from the C#m scale. Obviously, use this as reference and play it as you wish -- if you wish to play it at all.
+Here is how I play the intro to this song on a guitar. Note that on the album this is played with a synth, so a bit of interpretation is at work here. One of my main goals is to ensure I somewhat capture the bass notes heard at the start of each measure (that usher in the C#m, B, and F# chords). The biggest tip I have is to barre the 4th fret (down to the D string) while you play this entire thing, if you can... it will allow you keep your general hand position in the same relative spot. Also, understand you're basically always playing notes from the C# dorian scale (http://www.guitar-chords.org.uk/modes/csharp-dorian-mode.html). Obviously, use this as reference and play it as you wish -- if you wish to play it at all.
 
 e-|---------------------7--4---|--------------------4---|-
 B-|------------5--7------------|-----------5--7---------|-
@@ -98,35 +134,52 @@ E-|----------------------------|------------------------|-
  -|---4------------------------|------------------------||
  -|----------------------------|------------------------||
  -|----------------------------|------------------------||
-      F#                           F#
+      F#                           F# 
 
 ===============================================================================
 LISTEN & PLAY
 ===============================================================================
 
-...
+Official Music Video
+Here is the official music video, if you're interested in hearing the official version of this song for reference.
+http://www.youtube.com/watch?v=jofNR_WkoCE
+
+Recommended Guitar Lesson
+If you want a breakdown of how to play this on guitar, check out this video lesson.
+http://www.youtube.com/watch?v=GSy8k5clJy4
 
 ===============================================================================
 CHORD PROGRESSIONS
 ===============================================================================
 
+INTRO
+| C#m . . . | B . . . | F# . . . | F# . . . |
+
 VERSE
-| . . . . | . . . . | . . . . | . . . . |
+"Dog goes woof, cat goes meow..."
+| C#m . . . | B . . . | F# . . . | F# . . . |
+                                     (repeat)
 
 CHORUS
-"Lorem ipsum dolor sit amet..."
-| . . . . | . . . . | . . . . | . . . . |
-| . . . . | . . . . | . . . . | . . . . |
+"What does the fox say?"
+| C#m . . . | C#m . . . | C#m . . . | F# . . . |
+                                        (repeat)
+                                        
+BRIDGE
+"The secret of the fox..."
+| A . . . | A . . . | C#m . . . | C#m . . . |
+| B . . . | B . . . | A   . . . | A   . . . |
+                                     (repeat)
 
 ===============================================================================
 ABOUT THIS SONG
 ===============================================================================    
 
-Song: ____
-Artist: ____
-Album: ____
-Released: Month Day, Year
-Label: ____
-Wikipedia URL: ____
-Rdio URL: ____
-YouTube (official video): ____
+Song: The Fox (What Does the Fox Say?)
+Artist: Ylvis
+Album: --
+Released: 2013
+Label: Parlophone
+Wikipedia URL: http://en.wikipedia.org/wiki/The_Fox_(What_Does_the_Fox_Say?)
+Rdio URL: http://rd.io/x/QVzN1jddTJjj/
+YouTube (official video): http://www.youtube.com/watch?v=jofNR_WkoCE
