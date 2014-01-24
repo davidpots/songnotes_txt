@@ -1,0 +1,108 @@
+SIMPLE TWIST OF FATE
+by Bob Dylan
+===============================================================================
+
+(no capo, standard tuning... see my note below for more info)
+
+INTRO
+    | E         | Emaj7      | E7          | A         |
+    | Am        | E  B  A    | E    Asus2  | E         |
+
+VERSE
+    E                                Emaj7 
+    ...They sat together in the park... as the evening sky grew dark
+    E7                                          A 
+    ...She looked at him and he felt a spark... tingle to his bones
+    Am                                      E      B         A        Asus2 
+    ...Twas then he felt alone, and wished... that he'd gone straight
+        E                 Asus2                E 
+    And watched out for a simple twist of fate
+
+                                      (...uses same progression for each verse)
+
+    They walked along by the old canal, a little confused, I remember well
+    And stopped into a strange hotel with the neon burning bright
+    He felt the heat of the night hit him like a freight train
+    Moving with a simple twist of fate
+
+    A saxophone someplace far-off played as she was walking along by the arcade
+    As a light bust through a beat-up shade where he was waking up
+    She dropped a coin into the cup of a blind man at the gate
+    And forgot about a simple twist of fate
+
+    (instrumental verse)
+
+    He woke up, the room was bare, he didn't see her anywhere
+    He told himself he didn't care, pushed the window opened wide
+    Felt an emptiness inside to which he just could not relate
+    Brought on by a simple twist of fate
+
+    He hears the ticking of the clocks and walks along with a parrot that talks
+    Hunts her down by the waterfront docks where the sailors all come in
+    Maybe she'll pick him out again, how long must he wait
+    One more time for a simple twist of fate
+
+    People tell me it's a sin to know and feel too much within
+    I still believe she was my twin, but I lost the ring
+    She was born in spring, but I was born too late
+    Blame it on a simple twist of fate
+
+    (instrumental verse, end)
+
+===============================================================================
+NOTES & TABS
+===============================================================================
+
+Standard Tuning, No Capo
+Disclaimer! This tab is for a standard tuning transcription of this song, sans capo, so I can play & sing along to the Blood on the Tracks album version without retuning my guitar. I realize there are alternative tunings (Open D, etc) that Bob Dylan uses -- but I'm not going to cover those here. If you're interested in these alternative tunings, or the alternative lyrics Dylan sings, check out this page (http://dylanchords.info/16_bott/simple_twist_of_fate.htm). Good luck!
+
+Guitar Chords Used
+Here is how you play the chords used in this song (in my standard tuning transcription shown above). You can certainly add whatever flourishes you desire to any of these chords, but these tabs should give a proper starting point.
+
+e-|----0------0------0------0-----0-----0-----------
+B-|----0------0------0------2-----0-----1-----4-----
+G-|----1------1------1------2-----2-----2-----4-----
+D-|----2------1------0------2-----2-----2-----4-----
+A—|----2------2------2------0-----0-----0-----2-----
+E—|----0------0------0------------------------------
+       E    Emaj7    E7     A   Asus2   Am    B 
+
+Emphasizing the E-Emaj7-E7 Bass Notes
+One small technique I want to share is how I play the opening chords of the progression (i.e., the E-Emaj7-E7) so that their walking-down bass note is properly emphasized amidst all the strumming. In summary, I'll pick the bass note on the D string a single time before strumming for the rest of the measure -- and I'll repeat this once when I change to each new chord. The tab, roughly, would look like this. You'll obviously need to insert the strumming into the "..." gaps below.
+
+e—|------0---     ------0---     -----0---     ------0---
+B—|------0---     ------0---     -----0---     ------2---
+G—|------1---     ------1---     -----1---     ------2---
+D—|---2--2--- ... ---1--1--- ... --0--0--- ... ------2--- ...etc
+A—|------2---     ------2---     -----2---     ---0--0---
+E—|------0---     ------0---     -----0---     ----------
+         E            Emaj7          E7              A 
+
+A nice bonus of this approach: you can use this same pattern for the opening chords of Dylan's "You're Gonna Make Me Lonesome When You Go," also from the Blood on the Tracks album.
+
+===============================================================================
+LISTEN & PLAY
+===============================================================================
+
+...
+
+===============================================================================
+CHORD PROGRESSIONS
+===============================================================================
+
+INTRO & VERSE
+This progression is used for the entire song.
+| E         | Emaj7      | E7          | A         |
+| Am        | E  B  A    | E    Asus2  | E         |
+
+===============================================================================
+ABOUT THIS SONG
+===============================================================================    
+
+Song: Simple Twist of Fate
+Artist: Bob Dylan
+Album: Blood on the Tracks
+Released: 1975
+Label: Columbia
+Wikipedia URL: http://en.wikipedia.org/wiki/Simple_Twist_of_Fate
+Rdio URL: http://rd.io/x/QVzN1jdpVkY/
