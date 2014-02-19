@@ -1,61 +1,99 @@
 AFRICA
 by Toto
 ===============================================================================
+
+(capo 2nd fret)
+
 INTRO
-    G ... G/F# Bm ....... (x4, see "Notes & Tabs" section for guitar riff)
-
-
-| G . . . . . | Bm . . . . . |
-
-| A . . . | C#m . . . | F#m . . . | F#m/E . . .  |
-| G . . . | Bm  . . . | F#m . . . | G     . . Bm |
-
-| Em . . . | C . . . | G  . . . | D . . . |
-| Em . . . | C . . . | G  . . . | D . . . |
-| Em . . . | C . . . | G  . . . | D . . . |
-| Em . . . | C . . . | Bm . . . | D . . . |
-| Em . . D |
+    G ..... Bm .........  x4, with guitar riff
 
 VERSE
-    I hear the drums echoing tonight 
-    But she hears only whispers of some quiet conversation 
-    She's coming in, twelve thirty flight 
-    The moonlit wings reflect the stars that guide me towards salvation
+    A                   C#m       F#m 
+    ...I hear the drums echoing tonight 
+    F#m/E          G                Bm           F#m   G     Bm 
+    She hears only whispers of some quiet conversa-----tion 
+
+    A               C#m               F#m 
+    ...She's coming in, twelve thirty flight
+        F#m/E           G                    Bm                  F#m   G    Bm 
+    The moonlit wings reflect the stars that guide me towards salva----tion
+
+    A               C#m               F#m 
+    ...I stopped an old man along the way
+    F#m/E               G             Bm               F#m      G     Bm
+    Hoping to find some old forgotten words or ancient mel-----odies 
     
-    I stopped an old man along the way
-    Hoping to find some old forgotten words or ancient melodies 
-    He turned to me as if to say, "Hurry boy, it's waiting there for you..."
+    A               C#m         F#m 
+    ...He turned to me as if to say
+     F#m/E           G                          Bm 
+    "Hurry boy, it's waiting there for you..."
 
 CHORUS
-        It's gonna take a lot to drag me away from you
-        There's nothing that a hundred men or more could ever do
-        I bless the rains down in Africa
-        Gonna take some time to do the things we never had--------- oo, ooo...
-
-    The wild dogs cry out in the night
+        Em                   C               G        D 
+        ...It's gonna take a lot to drag me away from you
+        Em                        C              G               D 
+        ...There's nothing that a hundred men or more could ever do
+        Em             C             G   D 
+        ...I bless the rains down in Africa
+        Em                 C              G               
+        ...Gonna take some time to do the things we never
+        Bm     D    Em     D   G      Bm 
+        Had--------------- oo, ooo...
+                                   
+                    (begin intro riff on final G & Bm, repeat intro as desired)
+    
+    A                C#m            F#m 
+    ...The wild dogs cry out in the night
+       F#m/E              G                Bm       F#m  G   Bm  
     As they grow restless longing for some solitary company
-    I know that I must do what's right
+
+    A              C#m              F#m 
+    ...I know that I must do what's right
+               F#m/E       G           Bm               F#m    G   Bm
     As sure as Kilimanjaro rises like Olympus above the Serengeti
-    I seek to cure what's deep inside...
+
+    A            C#m                F#m
+    ...I seek to cure what's deep inside...
+       F#m/E              G                       Bm 
     ...Frightened of this thing that I've become 
 
-        It's gonna take a lot to drag me away from you
-        There's nothing that a hundred men or more could ever do
-        I bless the rains down in Africa
-        Gonna take some time to do the things we never had--------- oo, ooo...
+        Em                   C               G        D 
+        ...It's gonna take a lot to drag me away from you
+        Em                        C              G               D 
+        ...There's nothing that a hundred men or more could ever do
+        Em             C             G   D 
+        ...I bless the rains down in Africa
+        Em                 C              G               
+        ...Gonna take some time to do the things we never
+        Bm     D    Em     D   G      Bm 
+        Had--------------- oo, ooo...
+                                   
+                    (begin intro riff on final G & Bm, repeat intro as desired)
 
-    (Instrumental break) 
+    (instrumental verse / solo) 
 
-    Hurry boy, she's waiting there for you 
+    A  C#m  F#m  F#m/E            G                      Bm
+    .............Hurry boy, she's waiting there for you 
 
-        It's gonna take a lot to drag me away from you 
-        There's nothing that a hundred men or more could ever do 
-        I bless the rains down in Africa, I bless the rains down in Africa 
-        I bless the rains down in Africa, I bless the rains down in Africa 
-        I bless the rains down in Africa, I bless the rains down in Africa
-        I bless the rains down in Africa, I bless the rains down in Africa
-        Gonna take some time to do the things we never had--------- oo, ooo...
-
+        Em                   C               G        D 
+        ...It's gonna take a lot to drag me away from you
+        Em                        C              G               D 
+        ...There's nothing that a hundred men or more could ever do
+        Em             C             G   D 
+        ...I bless the rains down in Africa
+        Em             C             G   D 
+        ...I bless the rains down in Africa
+        Em             C             G   D 
+        ...I bless the rains down in Africa
+        Em             C             G   D 
+        ...I bless the rains down in Africa
+        Em                 C              G               
+        ...Gonna take some time to do the things we never
+        Bm     D    Em     D   G      Bm 
+        Had--------------- oo, ooo...
+                                   
+                    (begin intro riff on final G & Bm, repeat intro to end)
+                    
 ===============================================================================
 NOTES & TABS
 ===============================================================================
@@ -80,13 +118,23 @@ LISTEN & PLAY
 CHORD PROGRESSIONS
 ===============================================================================
 
+INTRO
+| G . . . . F#5 | Bm . . . | Bm . . . . . |  x4, with guitar riff
+
 VERSE
-| . . . . | . . . . | . . . . | . . . . |
+"I hear the drums echoing tonight..."
+| A . . . | C#m . . . | F#m . . . | F#m/E . . . |
+| G . . . | Bm  . . . | F#m . . . | G     . . . | G . Bm . |    
+                                         ...repeat as needed
 
 CHORUS
-"Lorem ipsum dolor sit amet..."
-| . . . . | . . . . | . . . . | . . . . |
-| . . . . | . . . . | . . . . | . . . . |
+"It's gonna take a lot to drag me away from you..."
+| Em . . . | C . . . | G  . . . | D . . . |
+| Em . . . | C . . . | G  . . . | D . . . |
+| Em . . . | C . . . | G  . . . | D . . . |
+| Em . . . | C . . . | Bm . . . | D . . . |
+| Em . . D |
+             ...begin intro riff immediately after final D
 
 ===============================================================================
 ABOUT THIS SONG
