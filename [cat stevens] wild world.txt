@@ -1,105 +1,166 @@
 WILD WORLD
 by Cat Stevens
 ===============================================================================
+
 INTRO
-    | . . . . | . . . . | . . . . | . . . . | →
+    Am             D             G 
+    ...La la la la la la la, la, la...
+                   C             F 
+    ...La la la la la la la, la, la...
+                   Dm                  E 
+    ...La la la la la la la la, la, la la la...
 
-  Am7           D7                 G 
-  Now that I've lost everything to you 
-              C                     F 
-  You say you wanna start something new 
-           Dm                       E 
-  And it's breakin' my heart you're leavin' 
-  E7 
-  Baby, I'm grievin'
+VERSE
+    Am               D                  G 
+    ...Now that I've lost everything to you 
+                C                     F 
+    You say you wanna start something new 
+             Dm                       E 
+    And it's breaking my heart you're leaving.... baby, I'm grieving
 
-  Am7              D7               G 
-  But if you wanna leave, take good care 
-                    C                     F 
-  I hope you have a lot of nice things to wear 
-             Dm                      E   E7  G 
-  But then a lot of nice things turn bad out there
+    Am                  D                G 
+    ...But if you wanna leave, take good care 
+                      C                     F 
+    I hope you have a lot of nice things to wear 
+               Dm                      E       G        G7 
+    But then a lot of nice things turn bad out there...
 
-      C   G                  F 
-      Oh, baby, baby, it's a wild world
-      G                F              C       G 
-      It's hard to get by just upon a smile 
-      C   G                  F 
-      Oh, baby, baby, it's a wild world
-      G               F               C            Dm  E 
-      I'll always remember you like a child, girl
+CHORUS
+        C      G                  F 
+        ...Oh, baby, baby, it's a wild world
+        G                   F              C       G 
+        ...It's hard to get by just upon a smile 
+        C      G                  F 
+        ...Oh, baby, baby, it's a wild world
+        G                F                 C            Dm  E 
+        ...I'll always remember you like a child, girl...
 
+    (repeat progressions above for each section below)
 
-  You know I've seen a lot of what the world can do 
-  And it's breakin' my heart in two 
-  Because I never wanna see you a sad girl 
-  Don't be a bad girl 
-  
-  But if you wanna leave, take good care 
-  I hope you make a lot of nice friends out there 
-  But just remember there's a lot of bad and beware
+    You know I've seen a lot of what the world can do 
+    And it's breaking my heart in two 
+    Because I never wanna see you a sad girl 
+    Don't be a bad girl 
 
-    [chorus]
+    But if you wanna leave, take good care 
+    I hope you make a lot of nice friends out there 
+    But just remember there's a lot of bad and beware
 
-  Baby, I love you 
-  But if you wanna leave, take good care 
-  I hope you make a lot of nice friends out there 
-  But just remember there's a lot of bad and beware
+        Oh, baby, baby, it's a wild world
+        It's hard to get by just upon a smile 
+        Oh, baby, baby, it's a wild world
+        I'll always remember you like a child, girl
 
-    [chorus x2]
+    La la la la la la la, la, la...
+    La la la la la la la, la, la...
+    La la la la la la la la, la, la la la... baby, I love you
 
-        ( end on C )
+    But if you wanna leave, take good care 
+    I hope you make a lot of nice friends out there 
+    But just remember there's a lot of bad and beware
+
+        Oh, baby, baby, it's a wild world
+        It's hard to get by just upon a smile 
+        Oh, baby, baby, it's a wild world
+        I'll always remember you like a child, girl
+
+        Oh, baby, baby, it's a wild world
+        It's hard to get by just upon a smile 
+        Oh, baby, baby, it's a wild world
+        I'll always remember you like a child, girl
+
+                                    (end on C and let ring)
 
 ===============================================================================
 NOTES & TABS
 ===============================================================================
 
-SECTION ONE
-Lorem ipsum dolor sit amet.
+Guitar Chords Used
+Here is how to play the guitar chords used in this song. Note, I'm also including some alternative chord positions you can use, mainly the Cmaj7 (in place of the C) and the D7 (in place of the D). These are optional, but may help change up the sound.
+
+e-|---0---2---3---0---1---1---0---     ---2-----0----1----0---
+B-|---1---3---0---1---1---3---0---     ---1-----0----0----0---
+G-|---2---2---0---0---2---2---1---     ---2-----0----0----2---
+D-|---2---0---0---2---3---0---2---     ---0-----2----0----2---
+A-|---0-------2---3---3-------2---     ---------3----2----2---
+E-|-----------3-------1-------0---     --------------3----0---
+      Am  D   G   C   F   Dm  E           D7  Cmaj7  G7   E4 
+
+Transition from Verse to Chorus
+At the very end of the verse, you'll transition from a G to a G7 to the C that begins the chorus. Here are a few ways you can play that transition. The first is to do this walkdown that uses the highest four strings:
+
+e-|-----------0-------3---|---------3--------3--------3---|---0------3------
+B-|-----------0-------0---|-------0--------0--------0-----|---1------0------
+G-|-----------1-------0---|-----0--------0--------0-------|---0------0------
+D-|-----------2-------0---|---3--------2--------0---------|---2------0------
+A-|-----------2-------2---|-------------------------------|---3------2------
+E-|-----------0-------3---|-------------------------------|----------3------
+              E       G       G7       G6       G5            C      G 
+     "...turn bad out there...                                ...Oh, baby..."
+
+Or, you can play the same general thing but focus the walkdown on higher strings:
+
+e-|-----------0-------3---|---1--------0------------------|---0------3------
+B-|-----------0-------0---|---0--------0--------3---------|---1------0------
+G-|-----------1-------0---|---0--------0--------0---------|---0------0------
+D-|-----------2-------0---|---0--------0--------0---------|---2------0------
+A-|-----------2-------2---|---2--------2--------2---------|---3------2------
+E-|-----------0-------3---|---3--------3--------3---------|----------3------
+              E       G       G7       G6       G5            C      G 
+     "...turn bad out there...                                ...Oh, baby..."
 
 
+Chorus Turnaround Riffs
+During the chorus there are a few guitar riffs you may want to play for extra embellishment. The first is a complete descending C scale:
 
-  E |--3------------------3---|------------3-----------3--| 
-  B |--3---------------0------|---------0-----------0-----| 
-  G |--0-----------0----------|------0-----------0--------| 
-  D |--0--------3-------------|---2-----------0-----------| 
-  A |--2----------------------|---------------------------| 
-  E |--3----------------------|---------------------------|
+e-|---0---3----------------1----------|---------------------------|---3---
+B-|---1---0----------------1----------|---1--0--------------------|---0---
+G-|---0---0----------------2----------|--------2--0---------------|---0---
+D-|---2---0----------------3----------|--------------3--2--0------|---0---
+A-|---3---2----------------3----------|-----------------------3---|---2---
+E-|-------3----------------1----------|---------------------------|---3---
+      C   G                F                                          G 
+     "Oh, baby baby it's a wild world..."
 
-  E |--------------------------| 
-  B |--1--0--------------------| 
-  G |--------2--0--------------| 
-  D |--------------3--2--0-----| 
-  A |-----------------------3--| 
-  E |--------------------------|
-  
-  E |--------------------------| 
-  B |--------------------------| 
-  G |--------------------------| 
-  D |--------------------------| 
-  A |--------0--3--3--3--0-----| 
-  E |--3--3-----------------3--|
+The second is a bassline turnaround that takes you from a G back to the C:
 
-
+e-|-----------------0-------|--(3)-----------------------|---0------3----
+B-|-----------------1-------|--(0)-----------------------|---1------0----
+G-|-----------------0-------|--(0)-----------------------|---0------0----
+D-|-----------------2-------|--(0)-----------------------|---2------0----
+A-|-----------------3-------|---x-----0--3--3--3--0------|---3------2----
+E-|-------------------------|---3--3-----------------3---|----------3----
+                    C           G                            C 
+    "...just upon a smile...                                 ...Oh, baby..."
 
 ===============================================================================
 LISTEN & PLAY
 ===============================================================================
 
-...
+Official Album Version
+For the official recorded version that appears on the Tea for the Tillerman album, refer to this video.
+https://www.youtube.com/watch?v=k_0U3DlLFSU&feature=kp
+
+1971 Live Version
+Here's a live version from Cat Stevens back in 1971. Not the greatest video quality, but it is nice to see him play it in person.
+https://www.youtube.com/watch?v=DHXpnZi9Hzs
+
+Recommended Guitar Lesson
+Here is a wonderful guitar lesson from Justin Sandercoe. He breaks down all sections of the song, from chords to strumming to the various fills. Check out his other videos if you find this helpful.
+https://www.youtube.com/watch?v=SeDzGf7L3Fs
 
 ===============================================================================
 CHORD PROGRESSIONS
 ===============================================================================
 
 INTRO
-| Am . .  . | D . . . | G . . . | C . . . |
-| F  . Dm . | E . . . | E . . . |
+| Am . . . | D  . . . | G . . . | C . . . |
+| F  . . . | Dm . . . | E . . . | E . . . |
 
 VERSE
 "Now that I've lost everything to you..."
-| Am . .  . | D . . . | G . . . | C . . . |
-| F  . Dm . | E . . . | E . . . |
+| Am . . . | D  . . . | G . . . | C . . . |
+| F  . . . | Dm . . . | E . . . | E . . . |
 
 "But if you want to leave, take good care..."
 | Am . .  . | D . . . | G . . . | C . . . |
@@ -118,11 +179,10 @@ CHORUS
 ABOUT THIS SONG
 ===============================================================================    
 
-Song: ____
-Artist: ____
-Album: ____
-Released: Month Day, Year
-Label: ____
-Wikipedia URL: ____
-Rdio URL: ____
-YouTube (official video): ____
+Song: Wild World
+Artist: Cat Stevens
+Album: Tea for the Tillerman
+Released: 1970
+Label: Island
+Wikipedia URL: http://en.wikipedia.org/wiki/Wild_World 
+Rdio URL: http://rd.io/x/QVzN1jd2kSI/
