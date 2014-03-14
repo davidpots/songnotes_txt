@@ -1,28 +1,28 @@
 TRACKS OF MY TEARS
-by Smokey Robinson
+by Smokey Robinson and The Miracles
 ===============================================================================
 INTRO
     G C ... C D ...
-    G C ... C C/B Am G
+    G C ... C G/B Am G
 
 VERSE
     G         C           D 
     ...People say I'm the life of the party
-     G              C            C  C/B  Am  G
+     G              C            C  G/B  Am  G 
     'Cause I tell a joke or two
-               G        C        D
+               G        C        D 
     Although I might be laughing loud and hearty
-    G           C          C  C/B  Am  G
+    G           C          C  G/B  Am  G 
     Deep inside I am blue
 
 CHORUS
-                  G    C                D 
-        So take a good look at my face...
-                   G     C                   D 
-        You'll see my smile looks out of place...
+                  G     C                     D 
+        So take a good------ look at my face...
+                      G     C                        D 
+        You'll see my smile----- looks out of place...
                     G           C              D 
         If you look closer it's easy to trace...
-                         G      C         C  C/B  Am  G
+                         G      C     C  G/B  Am  G 
         The tracks of my tears...
         
         (repeat verse & chorus progressions for each matching section below)
@@ -52,8 +52,10 @@ BRIDGE
             Inside...... my hope is fading.....
                        C      G              C            G
             I'm just a clown...... since you put me down......
-               C     C/B  Am  C    C/B  Am  C    C/B   Am  C     C/B  Am   D 
-            My smile is   my  make-up   I   wear since my  break-up   with you
+               C*                                                D 
+            My smile is my make-up I wear since my break-up with you
+                   
+               (* = see Notes & Tab section for alternate riff you can play here)
  
         Baby, take a good look at my face
         You'll see my smile looks out of place
@@ -71,43 +73,114 @@ BRIDGE
 NOTES & TABS
 ===============================================================================
 
-SECTION ONE
-Lorem ipsum dolor sit amet.
+Guitar Chords Used
+Here is how to play the chords used in this song a guitar. Note, this is mainly a three chord song (G, C, and D) so you can approach the chords from a few different angles. Here are some of the approaches you can take. You can use as few or as many of these variations as you choose -- it all depends on the sound you're aiming for, etc.
 
-e-|----------------------------------------------------------------------------
-B-|----------------------------------------------------------------------------
-G-|----------------------------------------------------------------------------
-D-|----------------------------------------------------------------------------
-A-|----------------------------------------------------------------------------
-E-|----------------------------------------------------------------------------
+e-|---3---0---2---  ---3-----------  ---3-----------
+B-|---0---1---3---  ---0---1---3---  ---3---5---7---
+G-|---0---0---2---  ---0---0---0---  ---4---5---7---
+D-|---0---2---0---  ---0---2---4---  ---5---5---7---
+A-|---2---3-------  ---2---3---5---  ---5---3---5---
+E-|---3-----------  ---3-----------  ---3-----------
+      G   C   D        G   C   D        G   C   D 
+
+Main Walkdown Riff
+There is one main riff that occurs through the song, that being the bass walkdown from C to G. At its simplest, you can play this by only focusing on the bassnotes as follows:
+
+e-|---------------------3------0------------------
+B-|---------------------0------1------------------
+G-|---------------------0------0------------------
+D-|---------------------0------2------------------
+A-|---------------------2------3-----3--2--0------
+E-|---------------------3---------------------3---
+                        G      C              G 
+      "The tracks of my tears..."
+
+However, I like to often play more than just the bassnote. Here is the same sequence but with a few more strings accompanying each note of the walkdown:
+
+e-|---------------------3------0--------------------------
+B-|---------------------0------1--------------------------
+G-|---------------------0------0--------0---0---2---------
+D-|---------------------0------2--------2---0---2---0-----
+A-|---------------------2------3--------3---2---0---2-----
+E-|---------------------3---------------------------3-----
+                        G      C        C  G/B  Am  G 
+      "The tracks of my tears..."
+
+Alternate Bridge Walkdown
+At the end of the bridge, there is a prolonged walkdown section that slightly differs from the one above. Here is how I play it. This one is a bit more difficult to pull off, but sounds great in contributing toward the song's build up. This is simply a G-Bm-Am progression that repeats several times. Check out the guitarist in the video section of this page to see how this is played.
+
+e-|------3-----2---0----3----2---0---3----2-----0---3-----2---0----2------
+B-|------3-----3---1----3----3---1---3----3-----1---3-----3---1----3------
+G-|------4-----4---2----4----4---2---4----4-----2---4-----4---2----2------
+D-|------5-----4---2----5----4---2---5----4-----2---5-----4---2----0------
+A-|-----------------------------------------------------------------------
+E-|-----------------------------------------------------------------------
+         G     Bm  Am   G    Bm  Am  G    Bm    Am  G     Bm  Am   D 
+     "My smile is  my   make-up  I   wear since my  break up  with you..." 
 
 ===============================================================================
 LISTEN & PLAY
 ===============================================================================
 
-...
+Official Album Version
+Here is the original recorded version by Smokey Robinson and the Miracles. Refer to this video if you don't have the song handy otherwise. Listening along for reference always helps.
+https://www.youtube.com/watch?v=BCwkZrj2VT4
+
+Live Smokey Robinson Version
+Here is a nice, subdued version performed by Smokey Robinson on the Merv Griffin show. Very stripped down and bare, which is nice to hear.
+https://www.youtube.com/watch?v=6hIVee_-2u4
+
+Adam Lambert American Idol Version
+I first learned of this song through American Idol, when Adam Lambert sang it with Smokey Robinson as a mentor. Absolutely love the stripped down quality of this version as well.
+https://www.youtube.com/watch?v=J6YyyD_4gwU
+
+Basic Guitar Lesson
+Here is a very simple guitar lesson if you want a instructional primer for this song.
+https://www.youtube.com/watch?v=4ZRbqRgks3A
+
+How to Play the Intro
+The intro, originally played on electric guitar, is broken down in a few videos here. First, this shows a simple way you can play it:
+https://www.youtube.com/watch?v=m7AGPIB9toc
+And if you want a more advanced version that is closer to how it is probably truly played, check this out.
+https://www.youtube.com/watch?v=aGgdG1NzhZY
 
 ===============================================================================
 CHORD PROGRESSIONS
 ===============================================================================
 
+INTRO
+| G . . . | C . . . | C . . . | D . . . |
+| G . . . | C . . . | C . . . | G . . . |
+            (...with walkdown on final C)
+
 VERSE
-| . . . . | . . . . | . . . . | . . . . |
+"People say I'm the life of the party..."
+| G . . . | C . . . | C . . . | D . . . |
+| G . . . | C . . . | C . . . | G . . . |
+            (...with walkdown on final C)
 
 CHORUS
-"Lorem ipsum dolor sit amet..."
-| . . . . | . . . . | . . . . | . . . . |
-| . . . . | . . . . | . . . . | . . . . |
+"So take a good look at my face..."
+| G . . . | C . . . | C . . . | D . . . |
+| G . . . | C . . . | C . . . | D . . . |
+| G . . . | C . . . | C . . . | D . . . |
+| G . . . | C . . . | C . . . | G . . . |
+            (...with walkdown on final C)
+
+BRIDGE
+"I need you... need you..."
+| C . . G . . . . | C . . G . . . . |
+             (...repeat as necessary)
 
 ===============================================================================
 ABOUT THIS SONG
 ===============================================================================    
 
-Song: ____
-Artist: ____
-Album: ____
-Released: Month Day, Year
-Label: ____
-Wikipedia URL: ____
-Rdio URL: ____
-YouTube (official video): ____
+Song: Tracks of my Tears
+Artist: Smokey Robinson and The Miracles
+Album: Going to a Go-Go
+Released: 1965
+Label: Tamla
+Wikipedia URL: http://en.wikipedia.org/wiki/The_Tracks_of_My_Tears
+Rdio URL: http://rd.io/x/QVzN1jd1BlU/
