@@ -1,0 +1,210 @@
+LIFE'S A HAPPY SONG
+by Bret McKenzie
+===============================================================================
+
+INTRO
+    C    F G (see Notes & Tabs section for guitar tab)
+    
+VERSE
+    C                    Dm 
+    Everything is great, everything is grand
+                 Em                      F 
+    I've got the whole wide world in the palm of my hand
+    C                           Dm 
+    Everything is perfect, it's falling into place
+      Em                      F 
+    I can't seem to wipe this smile off my face
+
+CHORUS    
+        C              Am                   Dm            F       G    C 
+        Life's a happy song... when there's someone by my side to sing along
+
+BRIDGE
+            C  G/B  Am               F                         C
+            ............When you're alone life can be a little rough
+                         G                          (Am) 
+            It makes you feel like you're three foot tall
+            Am                F                 C 
+            ...When it's just you, times can be tough
+                         G                          C      Dm     Em  F G 
+            When there's no one there to catch your fall
+
+    ( C / Dm / Em / F /)
+    Everything is great, everything is grand
+    I've got the whole wide world in the palm of my hand
+    Everything is perfect, it's falling into place
+    I can't seem to wipe this smile off my face
+
+        ( C / Am / Dm / F G )
+        Life smells like a rose... with someone to paint and someone to pose
+        Life's like a piece of cake... with someone to pedal, someone to break
+        Life is full of glee... with someone to saw and someone to see
+        Life's a happy song... when there's someone by my side to sing along
+
+    ( C / Dm / Em / F /)
+    I've got everything that I need right in front of me 
+    Nothing's stopping me, nothing I can't be with you right here next to me
+
+        ( C / Am / Dm / F G )
+        Life's a piece of cake... with someone to give and someone to take
+        Life's a piece of pie... with someone to wash and someone to dry
+        Life's an easy road... with someone beside you to share the load
+        Life is full of highs... with someone to stir and someone to fry
+        Life's a leg of lamb... with someone there to lend a hand
+        Life's a bunch of flowers... with someone to wile away the hours
+        Life's a fillet of fish... hey! yes it is
+        Life's a happy song... when there's someone by your side to sing along
+        
+    (instrumental break: verse progression x1, chorus progression x1)
+
+    ( C# / D#m / E#m / F# /)
+    I've got everything that I need right in front of me
+    Nothing's stopping me, nothing I can't be with you right here next to me
+
+    ( D / Em / F#m / G /)
+    I've got everything that I need right in front of me
+
+SPOKEN BREAK
+                (no chords)
+                GARY: "Sorry super excited."
+                MARY: "This is the most romantic thing ever. 
+                       I've always dreamt of seeing Los Angeles."
+                GARY: "I know, Walter cant wait either.
+                       You don't mind if he's coming right."
+                MARY: "Oh no, no, of course not. As long as we can spend 
+                       our anniversary dinner together. That's all I ask."
+                GARY: "Okay, let me check on Walter."
+
+            ( Bm / G / D / A / )
+            Everything is great, everything is grand
+            Expect Gary's already off with his friend
+            It's never me and him, it's always me and him and him
+            I wonder when it's going to end
+            Right now I guess it's okay, maybe someday
+            I know how it's going to be
+            You'll ride up on a steed and get down on one knee
+            And say "Mary, will you marry me" ... please!
+
+    ( D / Em / F#m / G /)
+    I've got everything that I need right in front of me
+    Nothing's stopping me, nothing I can't be with you right here next to me
+    You've got everything you need right in front of you
+    Nothing's stopping you...
+    ...Nothing that you can't do you got the world in front of you
+
+        ( D / Bm / Em / G A )
+        Life's a happy song... when there's someone by your side to sing
+        Life's a happy song... when there's someone by your side to sing
+        Life's a happy song... when there's someone by your side to sing along
+
+===============================================================================
+NOTES & TABS
+===============================================================================
+
+Guitar Chords Used
+For the most part, this song uses the following chords (all in the key of C). There are additional chords used in the second half of the song, which modulates up to C# and then D (I show all these chords further down in this section). Ultimately, what you need to understand is that the tonal progression of each section is the same -- no matter what key you're in. More on this later.
+
+Otherwise -- here are the main chords used in this song, as played in the open position (i.e., without using barre chords). Further below I'll describe how to play these songs in a way that better capture the ascending sound heard on the soundtrack version of this song.
+
+e-|---0---1---0----1----3---0---
+B-|---1---3---0----1----0---1---
+G-|---0---2---0----2----0---2---
+D-|---2---0---2----3----0---2---
+A-|---3-------2----3----2---0---
+E-|-----------0----1----3-------
+      C   Dm  Em   F    G   Am 
+
+Capturing the Sound of the Verse Walk-Up
+The chords in the verse section have a nice ascending, "rising" sound to them as you move from one chord to another. To capture the essence of this on an acoustic guitar, you'll want to use chord positions that likewise rise up the fretboard. Here are a few ways to do this.
+
+One approach is this version, which focuses on the highest four strings.
+
+e-|---0---1---3---5---
+B-|---1---3---5---6---
+G-|---0---2---4---5---
+D-|---2---0---5---7---
+A-|---3---------------
+E-|-------------------
+      C   Dm  Em  F 
+
+Or, you can focus on the middle four strings using standard barre chord positions. This approach works well when you (later on) modulate up to C# and then D.
+
+e-|-------------------
+B-|---5---6---8--10---
+G-|---5---7---9--10---
+D-|---5---7---9--10---
+A-|---3---5---7---8---
+E-|-------------------
+      C   Dm  Em  F 
+
+Guitar Chords, with Modulation
+The song modulates (i.e., changes key) to C# and then D later in the song. The basic idea I mention above about using the same pattern of chords (as you walk up during the verse) applies to each key, as you can see below. The modulation is certainly not a requirement to play the song -- but if you want to tackle it, this should help.
+
+e-|-----------------------------
+B-|---5---6---8---10---12---5---
+G-|---5---7---9---10---12---6---
+D-|---5---7---9---10---12---7---
+A-|---3---5---7----8---10---7---
+E-|-------------------------5---
+      C   Dm  Em   F    G   Am 
+
+e-|-------------------------------6---
+B-|---6-----7----9----11----13----6---
+G-|---6-----8---10----11----13----6---
+D-|---6-----8---10----11----13----8---
+A-|---4-----6----8-----9----11----8---
+E-|-------------------------------6---
+      C#   D#m  E#m   F#    G#   A#m 
+
+e-|------------------------------
+B-|---7---8---10---12---14---3---
+G-|---7---9---11---12---14---4---
+D-|---7---9---11---12---14---4---
+A-|---5---7----9---10---12---2---
+E-|------------------------------
+      D   Em  F#m   G    A   Bm       
+
+Intro Guitar Tab
+There is a short xylophone intro to this song in the original soundtrack recording. Here is how I approximate that on guitar. This is totally optional of course! But I wanted to include it for reference.
+
+e-|---0-------0----3------|-------/5--3--0--------------0---||
+B-|---1----3----------1---|---1----6-----------------1--1---||
+G-|---0-------------------|------------------0--0h2-----0---||
+D-|---2-------------------|-----------------------------2---||
+A-|---3-------------------|-----------------------------3---||
+E-|-----------------------|---------------------------------||
+      
+===============================================================================
+LISTEN & PLAY
+===============================================================================
+
+...
+
+===============================================================================
+CHORD PROGRESSIONS
+===============================================================================
+
+INTRO
+| C . . . | F . G . |
+
+VERSE
+"Everything is great, everything is grand..."
+| C . . . | Dm . . . | Em . . . | F . . . |
+
+BRIDGE
+"When you're alone, life can be a little rough..."
+| Am . . . | F . . . | C . . . | G . . . |
+
+CHORUS
+"Life's a happy song..."
+| C . Am . | Dm . F G |
+
+===============================================================================
+ABOUT THIS SONG
+===============================================================================    
+
+Song: Life's a Happy Song
+Artist: Bret McKenzie
+Album: The Muppets (soundtrack)
+Released: 2011
+Label: Walt Disney Records
