@@ -3,8 +3,9 @@ by Bret McKenzie
 ===============================================================================
 
 INTRO
-    C    F G (see Notes & Tabs section for guitar tab)
-    
+    | C ... | F . G . | C ... | C ... |
+    (see Notes & Tabs section for intro guitar tab)
+
 VERSE
     C                    Dm 
     Everything is great, everything is grand
@@ -20,9 +21,9 @@ CHORUS
         Life's a happy song... when there's someone by my side to sing along
 
 BRIDGE
-            C  G/B  Am               F                         C
+            C  G/B  Am               F                         C 
             ............When you're alone life can be a little rough
-                         G                          (Am) 
+                         G                          ( Am ) 
             It makes you feel like you're three foot tall
             Am                F                 C 
             ...When it's just you, times can be tough
@@ -40,6 +41,8 @@ BRIDGE
         Life's like a piece of cake... with someone to pedal, someone to break
         Life is full of glee... with someone to saw and someone to see
         Life's a happy song... when there's someone by my side to sing along
+
+    (very short instrumental break break: C F G F )
 
     ( C / Dm / Em / F /)
     I've got everything that I need right in front of me 
@@ -90,12 +93,14 @@ SPOKEN BREAK
     Nothing's stopping me, nothing I can't be with you right here next to me
     You've got everything you need right in front of you
     Nothing's stopping you...
-    ...Nothing that you can't do you got the world in front of you
+      ...Nothing that you can't do, you got the world in front of you
 
         ( D / Bm / Em / G A )
         Life's a happy song... when there's someone by your side to sing
         Life's a happy song... when there's someone by your side to sing
         Life's a happy song... when there's someone by your side to sing along
+
+                                                            (end on D )
 
 ===============================================================================
 NOTES & TABS
@@ -140,13 +145,17 @@ E-|-------------------
 Guitar Chords, with Modulation
 The song modulates (i.e., changes key) to C# and then D later in the song. The basic idea I mention above about using the same pattern of chords (as you walk up during the verse) applies to each key, as you can see below. The modulation is certainly not a requirement to play the song -- but if you want to tackle it, this should help.
 
-e-|-----------------------------
+For the key of C:
+
+e-|-------------------------5---
 B-|---5---6---8---10---12---5---
-G-|---5---7---9---10---12---6---
+G-|---5---7---9---10---12---5---
 D-|---5---7---9---10---12---7---
 A-|---3---5---7----8---10---7---
 E-|-------------------------5---
       C   Dm  Em   F    G   Am 
+
+For the key of C#:
 
 e-|-------------------------------6---
 B-|---6-----7----9----11----13----6---
@@ -156,36 +165,57 @@ A-|---4-----6----8-----9----11----8---
 E-|-------------------------------6---
       C#   D#m  E#m   F#    G#   A#m 
 
+For the key of D:
+
 e-|------------------------------
 B-|---7---8---10---12---14---3---
 G-|---7---9---11---12---14---4---
 D-|---7---9---11---12---14---4---
 A-|---5---7----9---10---12---2---
 E-|------------------------------
-      D   Em  F#m   G    A   Bm       
+      D   Em  F#m   G    A   Bm 
 
 Intro Guitar Tab
 There is a short xylophone intro to this song in the original soundtrack recording. Here is how I approximate that on guitar. This is totally optional of course! But I wanted to include it for reference.
 
 e-|---0-------0----3------|-------/5--3--0--------------0---||
-B-|---1----3----------1---|---1----6-----------------1--1---||
+B-|---1----3----------1---|---1----------------------1--1---||
 G-|---0-------------------|------------------0--0h2-----0---||
 D-|---2-------------------|-----------------------------2---||
 A-|---3-------------------|-----------------------------3---||
 E-|-----------------------|---------------------------------||
-      
+
+Or, if you wanted to avoid the open C in the first measure (which I find harder to play for some reason, in this specific context) you can use this approach. It is the same notes, just less reliance on open strings. Playing this, you'd want to bar your index finger across the 3rd fret, for the first measure at least.
+
+e-|----------------3------|--------5--3--0--------------0---||
+B-|---5----3--5-----------|--------------------------1--1---||
+G-|-------------------5---|---5--------------0--0h2-----0---||
+D-|-----------------------|-----------------------------2---||
+A-|-----------------------|-----------------------------3---||
+E-|-----------------------|---------------------------------||
+
 ===============================================================================
 LISTEN & PLAY
 ===============================================================================
 
-...
+Full Soundtrack Version
+Here's the entire song from the soundtrack & movie. Note that this has no video (it's just a still photo for the backdrop) -- but it does feature the entire 4+ minutes, unlike many versions which cut off the end.
+http://www.youtube.com/watch?v=M-nmiZjK4MI
+
+Abbreviated Version, with Video Clip
+Here's the song (minus the final segment) with the video clip from the movie. Not complete in length, but nice for the video that comes with it.
+http://www.youtube.com/watch?v=t9_zKm2Ewaw
+
+Brad McKenzie Piano Version with Kermit
+Here's a more casual live version, featuring both Kermit and songwriter Brad McKenzie.
+http://www.youtube.com/watch?v=aDnTo2S2BrA
 
 ===============================================================================
 CHORD PROGRESSIONS
 ===============================================================================
 
 INTRO
-| C . . . | F . G . |
+| C . . . | F . G . | C . . . | C . . . |
 
 VERSE
 "Everything is great, everything is grand..."
@@ -204,7 +234,7 @@ ABOUT THIS SONG
 ===============================================================================    
 
 Song: Life's a Happy Song
-Artist: Bret McKenzie
+Artist: The Muppets
 Album: The Muppets (soundtrack)
 Released: 2011
 Label: Walt Disney Records
