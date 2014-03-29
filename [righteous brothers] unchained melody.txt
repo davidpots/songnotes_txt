@@ -2,15 +2,46 @@ UNCHAINED MELODY
 by The Righteous Brothers
 ===============================================================================
 INTRO
-    C 
+    C
 
 VERSE
     C        Am         F 
     Oh... my love... my darling
          G                 C 
     I've hungered for your touch
-      Am           G     G7 
-    A long, lonely time
+      Am             G     G7 
+    A long... lonely time
+
+        C            Am       F 
+    And time... goes by... so slowly
+        G                     C 
+    And time... can do.... so much
+        Am            G      G7 
+    Are you.... still mine?
+
+CHORUS
+          C               G      Am              Em 
+        I need your love...... I need your love......
+           F                  G          C    C7 
+        Godspeed your love... to-------- me
+
+BRIDGE
+            F             G              F           Eb 
+            Lonely rivers flow... to the sea, to the sea
+            F           G           C         C7 
+            To the open arms of the sea-----, yeah
+
+            F             G                 F            Eb 
+            Lonely rivers sigh... "Wait for me, wait for me"
+            F              G                C 
+            I'll be coming home... wait for me------
+
+    C        Am         F 
+    Oh... my love... my darling
+         G                 C 
+    I've hungered for your touch
+      Am             G     G7 
+    A long... lonely time
 
         C            Am       F 
     And time... goes by... so slowly
@@ -21,43 +52,45 @@ VERSE
 
           C               G      Am              Em 
         I need your love...... I need your love......
-           F               G          C    C7               
-        Godspeed your love to-------- me
-
-            F             G              F           Eb 
-            Lonely rivers flow... to the sea, to the sea
-            F           G           C         C7 
-            To the open arms of the sea-----, yeah
-
-            F             G                 F            Eb 
-            Lonely rivers sigh... "Wait for me, wait for me"
-            F              G              C 
-            I'll be coming home, wait for me------
-
-    Oh, my love, my darling
-    I've hungered, hungered for your touch
-    A long, lonely time
-
-    And time goes by so slowly
-    And time can do so much
-    Are you still mine?
-
-        I need your love... I need your love...
-        Godspeed your love to me!
+           F                  G          C 
+        Godspeed your love... to-------- me
+                                      (end on C chord)
 
 ===============================================================================
 NOTES & TABS
 ===============================================================================
 
-SECTION ONE
-Lorem ipsum dolor sit amet.
+Guitar Chords Used
+Here's how to play the guitar chords used throughout this song. This is standard key-of-C stuff -- with the exception of the Eb-major chord in the bridge. First, the standard way to play the chords in the verse and chorus (with two versions of the G7-chord):
 
-e-|----------------------------------------------------------------------------
-B-|----------------------------------------------------------------------------
-G-|----------------------------------------------------------------------------
-D-|----------------------------------------------------------------------------
-A-|----------------------------------------------------------------------------
-E-|----------------------------------------------------------------------------
+e-|----0---0---1---3---0----0----3----1----
+B-|----1---1---1---0---0----1----0----0----
+G-|----0---2---2---0---0----3----0----0----
+D-|----2---2---3---0---2----2----3----0----
+A-|----3---0---3---2---2----3----2----2----
+E-|------------1---3---0---------3----3----
+       C   Am  F   G   Em   C7   G7   G7 
+
+For the bridge section, I recommend (if you're able) to use barre chord variations of the F, G, and Eb-major chords. This helps you to (1) change up the "sound" of the song, as the chords higher on the fretboard use higher tones than the typical open chords, and (2) make the transition to the Eb-major chord (which pretty much has to be a barre chord) easier to pull off.
+
+e-|------------------8----8----
+B-|---10---12---8----8----8----
+G-|---10---12---8----9----9----
+D-|---10---12---8---10----8----
+A-|----8---10---6---10---10----
+E-|------------------8----8----
+       F    G   Eb   C    C7 
+
+Fingerpicking Pattern
+Here's a general fingerpicking pattern I recommend using, especially if you're looking for a good prescribed pattern to follow to help learn.
+
+e-|------------------------------------------------
+B-|------------------------------------------------
+G-|------------------------------------------------
+D-|------------------------------------------------
+A-|------------------------------------------------
+E-|------------------------------------------------
+
 
 ===============================================================================
 LISTEN & PLAY
@@ -90,7 +123,7 @@ F G F Eb F G C C
 
 ===============================================================================
 ABOUT THIS SONG
-===============================================================================    
+===============================================================================
 
 Song: Unchained Melody
 Artist: The Righteous Brothers
