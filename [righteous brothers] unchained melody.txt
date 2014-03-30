@@ -1,6 +1,7 @@
 UNCHAINED MELODY
 by The Righteous Brothers
 ===============================================================================
+
 INTRO
     C
 
@@ -38,8 +39,10 @@ BRIDGE
 
     C        Am         F 
     Oh... my love... my darling
-         G                 C 
-    I've hungered for your touch
+         G 
+    I've hungered, hungered
+        C 
+    For your---- touch....
       Am             G     G7 
     A long... lonely time
 
@@ -50,18 +53,18 @@ BRIDGE
         Am            G      G7 
     Are you.... still mine?
 
-          C               G      Am              Em 
+          C         G            Am        Em 
         I need your love...... I need your love......
-           F                  G          C 
+           F                  G          C    Am   F    C 
         Godspeed your love... to-------- me
-                                      (end on C chord)
+                                      (let final chord ring)
 
 ===============================================================================
 NOTES & TABS
 ===============================================================================
 
 Guitar Chords Used
-Here's how to play the guitar chords used throughout this song. This is standard key-of-C stuff -- with the exception of the Eb-major chord in the bridge. First, the standard way to play the chords in the verse and chorus (with two versions of the G7-chord):
+Here's how to play the guitar chords used throughout this song. This is standard key-of-C stuff -- with the exception of the Eb-major chord in the bridge. First, the standard way to play the chords in the verse and chorus (with two versions of the G7-chord; take your pick):
 
 e-|----0---0---1---3---0----0----3----1----
 B-|----1---1---1---0---0----1----0----0----
@@ -81,45 +84,89 @@ A-|----8---10---6---10---10----
 E-|------------------8----8----
        F    G   Eb   C    C7 
 
-Fingerpicking Pattern
-Here's a general fingerpicking pattern I recommend using, especially if you're looking for a good prescribed pattern to follow to help learn.
+Guitar Fingerpicking Pattern
+Here's a general fingerpicking pattern I recommend using, especially if you're looking for a good prescribed pattern to follow to help learn. You can stray from this as you see fit, but the basic idea is to pluck one string at a time -- starting at the thickest string and working toward the thinnest -- and then go back down again toward the bass note (thickest string). For example:
 
-e-|------------------------------------------------
-B-|------------------------------------------------
-G-|------------------------------------------------
-D-|------------------------------------------------
-A-|------------------------------------------------
-E-|------------------------------------------------
+e-|------------------------------------------------------------------------
+B-|--------1-----------1-----------1-----------1---------------------------
+G-|------0---0-------0---0-------2---2-------2---2---------2-----------2---
+D-|----2-------2---2-------2---2-------2---2-------2-----3---3-------3-----  etc
+A-|--3-----------3-----------0-----------0-------------3-------3---3-------
+E-|--------------------------------------------------1-----------1---------
+     C                       Am                      F 
+    "Oh...             my--- love...              my darling..."
 
+And so on, and so forth... for all chords in the song. As I stated above, you can stray freely from this pattern if you wish. I will note that in the final verse of the song, when the crescendo and build-up has reached its peak, I double up the notes as follows. This helps accompany the buildup you hear in the recorded album version. I use my middle and index finger to pluck each duo of notes aside from the bass note.
+
+e-|-----------0-----------------0-----------------0-----------------0--
+B-|--------1--1--1-----------1--1--1-----------1--1--1-----------1--1--
+G-|-----0--0-----0--0-----0--0-----0--0-----2--2-----2--2-----2--2-----
+D-|-----2-----------2-----2-----------2-----2-----------2-----2--------  etc
+A-|--3-----------------3-----------------0-----------------0-----------
+E-|--------------------------------------------------------------------
+     C                                   Am 
+    "Oh...                         my--- love..."
+
+Ukulele Chords Used
+Looking to play the song on a ukulele? Here are the chord positions you'll need.
+
+A-|----3---3---3---2---2----1----2---1----
+E-|----0---0---1---3---3----0----1---3----
+C-|----0---0---0---2---4----0----2---3----
+G-|----0---2---2---0---0----0----0---3----
+       C   Am  F   G   Em   C7   G7  Eb 
 
 ===============================================================================
 LISTEN & PLAY
 ===============================================================================
 
-...
+Official Righteous Brothers Album Version
+To hear the original Righteous Brothers version of the song, check out this video. Great for reference if you don't have the recording handy otherwise.
+https://www.youtube.com/watch?v=qiiyq2xrSI0
+
+Ghost Scene & Montage
+Because hey, this is how I first learned of the song. Back when I was 10 years old. I grew up to in fact learn it existed before this movie was ever made. Who knew! (I kid).
+https://www.youtube.com/watch?v=HvyCMgAajqk
+
+Original 1955 Version
+For completion's sake, here's the original version of the song from 1955, performed by Todd Duncan from the movie "Unchained." The music was composed by Alex North and lyrics by Hy Zaret.
+https://www.youtube.com/watch?v=r9lkn5PRfyk#aid=P8B_cSyIzVQ
+
+Recommended Guitar Tutorial
+Super great tutorial for playing this song on guitar, from the wonderful Justin Sandercoe. He breaks it all down, check it out for reference.
+https://www.youtube.com/watch?v=haUa8ymmf5A
+
+Recommended Ukulele Tutorial
+Looking to learn how to play it on the ukulele? Check out this video lesson.
+https://www.youtube.com/watch?v=gZK4-ADoKro
 
 ===============================================================================
 CHORD PROGRESSIONS
 ===============================================================================
 
-Intro
-C C C C
+INTRO
+| C . . . . . | C . . . . . |
 
-C
+VERSE
+"Oh, my love..."
+| C . . . . . | . . . . . . | Am . . . . . | . . . . . . |
+| F . . . . . | . . . . . . | G  . . . . . | . . . . . . |
+| C . . . . . | . . . . . . | Am . . . . . | . . . . . . |
+| G . . . . . | . . . . . . | G7 . . . . . | . . . . . . |
 
-Verse
-"Oh my love..."
-C C Am Am F F G G
-C C Am Am G G G7 G7
-...repeat
-
+CHORUS
 "I need your love..."
-C C G G Am Am Em Em
-F F G G C C C7 C7
+| C  . . . . . | . . . . . . | G  . . . . . | . . . . . . |
+| Am . . . . . | . . . . . . | Em . . . . . | . . . . . . |
+| F  . . . . . | . . . . . . | G  . . . . . | . . . . . . |
+| C  . . . . . | . . . . . . | C7 . . . . . | . . . . . . |
 
+BRIDGE
 "Like the river flows..."
-F G F Eb F G C C
-...repeat
+| F . . . . . | G . . . . . | F . . . . . | Eb . . . . . |
+| F . . . . . | G . . . . . | C . . . . . | C7 . . . . . |
+| F . . . . . | G . . . . . | F . . . . . | Eb . . . . . |
+| F . . . . . | G . . . . . | C . . . . . |  . . . . . . |
 
 ===============================================================================
 ABOUT THIS SONG
@@ -127,9 +174,8 @@ ABOUT THIS SONG
 
 Song: Unchained Melody
 Artist: The Righteous Brothers
-Album: ____
-Released: Month Day, Year
-Label: ____
+Album: --
+Released: 1965
+Label: Moonglow
 Wikipedia URL: http://en.wikipedia.org/wiki/Unchained_Melody
-Rdio URL: ____
-YouTube (official video): ____
+Rdio URL: http://rd.io/x/QVzN1jdvTDI/
