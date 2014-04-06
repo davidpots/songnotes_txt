@@ -103,6 +103,8 @@ D-|---5---2---2---3---0---
 A-|---3---3---0---3---2---
 E-|---------------1---3---
       C5  C   Am  F   G 
+
+***
   
 Alternate Positions for the C5 Chord
 Here's a few more pointers on playing the C5 chord heard throughout this song (mainly in the verses, but also in the choruses). Cash plays these parts very rhymthically, with muted strumming used to great effect to accompany his near-spoken-word lyrics. I play the C5 with either of the following finger positions:
@@ -117,11 +119,13 @@ E-|-------    ---3---    ---3---
 
 The second version above adds the 6th string "G" bassnote, which you can sometimes hear Cash hit as an alternating bassnote. Note that this is tricky to pull off -- but even if you don't alternate betweeen the C- and G-bassnotes, adding this bottom note adds a but more fullness to the chord. Also, note that I play these 3rd fret notes by barring my index finger on the lowest two strings. If you want to stick to the usual C-position for the C5-chord, try the third version -- basically focus on the lowest of the strings of the C-chord. Finally, listen along for reference!
 
+***
+
 Strumming the C5 Chord
 
 For the strumming pattern, I use the following. Note that the emphasized beats are capitalized. These occur on the 2nd and 4th beat. 
 
-down... DOWN-up down-up DOWN-up down... DOWN-up down-up DOWN-up...
+    down... DOWN-up down-up DOWN-up down... DOWN-up down-up DOWN-up...
 
 In tab format, this would look like this. Note, that you're muting every strum of the C5-chord except for the "4 +" and the "1" beat.
 
@@ -133,6 +137,8 @@ A-|--3-----x--x--x--x--x--3--3-----x--x--x--x--x--3--3-----x--x--x--x--x--3---
 E-|---------------------------------------------------------------------------
      v     v  ^  v  ^  v  ^  v     v  ^  v  ^  v  ^  v     v  ^  v  ^  v  ^  
      1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+
+***
      
 Obviously, listening along and practicing is the key to getting this down. It isn't simple, but I hope this text formatting helps get you started.
 
@@ -159,23 +165,43 @@ E-|----3------------------------------------3----------------------
        G 
       "Voices calling, voices crying..."
 
+***
+
 Optional Guitar Runs for Walking Up & Down
 Finally, there are a few embellishments you do to play it just like Johnny Cash. These are basically bassline transitions to go up & down between a few of the chords. Here they are:
 
-# Runs
-- C5 to Am before "when the man comes around"
-- walk down at "to the big kettle drum"
-- walk up at "omega's kingdom come"
+First, the transition from C5 to A-minor. Note the 5th string walkdown:
 
+e-|------------------------0------1-----------3----------0---------
+B-|------------------------1------1-----------0----------1---------
+G-|----5-------------------2------2-----------0----------0---------
+D-|----5-------------------2------3-----------0----------2---------
+A-|----3--------3--2--0----0------3-----------2----------3---------
+E-|-------------------------------1-----------3--------------------
+       C5                  Am     F           G          C
+                                 "...When the man comes around"
 
+Second, the walk-up from C to F in the chorus:
 
-e-|--------------------------------------------
-B-|--------------------------------------------
-G-|--------------------------------------------
-D-|--------------------------------------------
-A-|--------------------------------------------
-E-|--------------------------------------------
+e-|----0-------------------------------1---0------3----
+B-|----1-------------------------------1---1------0----
+G-|----0-------------------------------2---0------0----
+D-|----2-----------------------0---2---3---2------0----
+A-|----3-------------------------------3---3------2----
+E-|------------------------------------1----------3----
+       C                               F   C      G 
+      "Multitudes are marching to  the big kettle drum..."
 
+Finally, the walkup from G to C in the middle of the chorus:
+
+e-|------------3---------------------------0-----------
+B-|------------0---------------------------1-----------
+G-|------------0---------------------------0-----------
+D-|------------0---------------------------2-----------
+A-|------------2-------------------0---2---3-----------
+E-|------------3---------------------------------------
+               G                           C 
+      "...It's alpha's and omega's kingdom come"
 
 ===============================================================================
 LISTEN & PLAY
