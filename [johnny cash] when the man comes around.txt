@@ -1,40 +1,181 @@
-SONG_TITLE
-by Artist_Name
+WHEN THE MAN COMES AROUND
+by Johnny Cash
 ===============================================================================
+
 INTRO
-    | . . . . | . . . . | . . . . | . . . . | →
+    (spoken, no chords)
+    And I heard, as it were, the noise of thunder. One of the four beasts saying: "Come and see." And I saw. And behold, a white horse.
 
 VERSE
-    Integer posuere erat a ante venenatis dapibus
-    Posuere velit aliquet, cras justo odio
-    Facilisis in, egestas eget quam loremius
-    Nullam quis risus eget urna mollis ornare vel eu leo
-
-PRE-CHORUS    
-        Integer posuere erat a ante venenatis dapibus
-        Pposuere velit aliquet, cras justo odio
-        Facilisis in, egestas eget quam loremius
-        Nullam quis risus eget urna mollis ornare vel eu leo
-
-CHORUS    
-            Integer posuere erat a ante venenatis dapibus
-            Pposuere velit aliquet, cras justo odio
-            Facilisis in, egestas eget quam loremius
-            Nullam quis risus eget urna mollis ornare vel eu leo
+              C5
+    There's a man going around taking names
+             C5
+    And he decides who to free and who to blame
+         C5
+    Everybody won't be treated all the same
+             C5                          Am
+    There'll be a golden ladder reaching down
+    F           G         C5
+    ...When the man comes around
+    
+        C5
+    The hairs on your arm will stand up
+           C5
+    At the terror in each sip and in each sup
+         C5
+    Will you partake of that last offered cup
+       C5                          Am 
+    Or disappear into the potter's ground
+    F           G          C
+    ...When the man comes around
+    
+CHORUS
+        C 
+        Hear the trumpets, hear the pipers
+            C 
+        One hundred million angels singing
+        C                              F   C      G
+        Multitudes are marching to the big kettle drum
+        G 
+        Voices calling, voices crying
+        G 
+        Some are born and some are dying
+             G                           C
+        It's alpha's and omega's kingdom come
+        
+                F                   C 
+        And the whirlwind is in the thorn tree
+            C5
+        The virgins are all trimming their wicks
+            F                   C
+        The whirlwind is in the thorn tree
+             C5 
+        It's hard for thee to kick against the pricks
+    
+    (use same verse & chorus chords in each section below)
+    
+    'Til Armageddon, no Shalam, no Shalom
+    Then the father hen will call his chickens home
+    The wise men will bow down before the throne
+    And at his feet they'll cast their golden crown
+    When the man comes around
+    
+    Whoever is unjust, let him be unjust still
+    Whoever is righteous, let him be righteous still
+    Whoever is filthy, let him be filthy still
+    Listen to the words long written down
+    When the man comes around
+    
+        Hear the trumpets, hear the pipers
+        One hundred million angels singing
+        Multitudes are marching to the big kettle drum
+        Voices calling, voices crying
+        Some are born and some are dying
+        It's alpha's and omega's kingdom come
+        
+        And the whirlwind is in the thorn tree
+        The virgins are all trimming their wicks
+        The whirlwind is in the thorn tree
+        It's hard for thee to kick against the pricks
+    
+       C5                               Am
+    In measured hundredweight and penny pound
+    F           G          C5     ...    G  C
+    ...When the man comes around
+    
+    (let final C-chord ring to end)
+    
+OUTRO
+    (spoken, no chords)
+    And I heard a voice in the midst of the four beasts, and I looked and behold: a pale horse. And his name, that sat on him, was Death. And Hell followed with him.
 
 ===============================================================================
 NOTES & TABS
 ===============================================================================
 
-SECTION ONE
-Lorem ipsum dolor sit amet.
+Guitar Chords Used
+Here are the guitar chords used to play this song. At its simplest, it is simply C, Am, F, and the G-chord -- that's it! The "C5" chord I note in the lyrics above can technically be substituted with a normal C, but I play it as shown below. I'll spend more time talking about this code further below in this section.
 
-e-|----------------------------------------------------------------------------
-B-|----------------------------------------------------------------------------
-G-|----------------------------------------------------------------------------
-D-|----------------------------------------------------------------------------
-A-|----------------------------------------------------------------------------
-E-|----------------------------------------------------------------------------
+e-|---x---0---1---1---3---
+B-|---x---1---1---1---0---
+G-|---5---0---2---2---0---
+D-|---5---2---2---3---0---
+A-|---3---3---0---3---2---
+E-|---------------1---3---
+      C5  C   Am  F   G 
+  
+Alternate Positions for the C5 Chord
+Here's a few more pointers on playing the C5 chord heard throughout this song (mainly in the verses, but also in the choruses). Cash plays these parts very rhymthically, with muted strumming used to great effect to accompany his near-spoken-word lyrics. I play the C5 with either of the following finger positions:
+
+e-|---x---    ---x---    ---x---
+B-|---x---    ---x---    ---x---
+G-|---5---    ---5---    ---x---
+D-|---5--- or ---5--- or ---2---
+A-|---3---    ---3---    ---3---
+E-|-------    ---3---    ---3---
+      C5         C5         C5 
+
+The second version above adds the 6th string "G" bassnote, which you can sometimes hear Cash hit as an alternating bassnote. Note that this is tricky to pull off -- but even if you don't alternate betweeen the C- and G-bassnotes, adding this bottom note adds a but more fullness to the chord. Also, note that I play these 3rd fret notes by barring my index finger on the lowest two strings. If you want to stick to the usual C-position for the C5-chord, try the third version -- basically focus on the lowest of the strings of the C-chord. Finally, listen along for reference!
+
+Strumming the C5 Chord
+
+For the strumming pattern, I use the following. Note that the emphasized beats are capitalized. These occur on the 2nd and 4th beat. 
+
+down... DOWN-up down-up DOWN-up down... DOWN-up down-up DOWN-up...
+
+In tab format, this would look like this. Note, that you're muting every strum of the C5-chord except for the "4 +" and the "1" beat.
+
+e-|---------------------------------------------------------------------------
+B-|---------------------------------------------------------------------------
+G-|--5-----x--x--x--x--x--5--5-----x--x--x--x--x--5--5-----x--x--x--x--x--5---
+D-|--5-----x--x--x--x--x--5--5-----x--x--x--x--x--5--5-----x--x--x--x--x--5---
+A-|--3-----x--x--x--x--x--3--3-----x--x--x--x--x--3--3-----x--x--x--x--x--3---
+E-|---------------------------------------------------------------------------
+     v     v  ^  v  ^  v  ^  v     v  ^  v  ^  v  ^  v     v  ^  v  ^  v  ^  
+     1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
+     
+Obviously, listening along and practicing is the key to getting this down. It isn't simple, but I hope this text formatting helps get you started.
+
+Strumming Tip for the Chorus High E-String
+Here's how you can imitate Johnny Cash's guitar playing in the chorus. Specifically, how he emphasizes the high E-string at the end of a few of the lines (i.e., adding a pinky on the 3rd fret of the high E-string).
+
+e-|-----------------------------------------3----3--3----3--3--3---
+B-|----1------------------------------------1----1--1----1--1--1---
+G-|----0------------------------------------0----0--0----0--0--0---
+D-|----2------------------------------------2----------------------
+A-|----3------------------------------------3----------------------
+E-|----------------------------------------------------------------
+       C 
+      "Hear the trumpets, hear the pipers..."
+
+To maxmize this effect, you'll want to not play the high E-string earlier in the same line (mute it, or stop your strum as to not strike that string). This makes the ringing high note more effective when it is added. You can do the same for the G-chord:
+
+e-|-----------------------------------------3----3--3----3--3--3---
+B-|----0------------------------------------0----0--0----0--0--0---
+G-|----0------------------------------------0----0--0----0--0--0---
+D-|----0------------------------------------0----------------------
+A-|----2------------------------------------2----------------------
+E-|----3------------------------------------3----------------------
+       G 
+      "Voices calling, voices crying..."
+
+Optional Guitar Runs for Walking Up & Down
+Finally, there are a few embellishments you do to play it just like Johnny Cash. These are basically bassline transitions to go up & down between a few of the chords. Here they are:
+
+# Runs
+- C5 to Am before "when the man comes around"
+- walk down at "to the big kettle drum"
+- walk up at "omega's kingdom come"
+
+
+
+e-|--------------------------------------------
+B-|--------------------------------------------
+G-|--------------------------------------------
+D-|--------------------------------------------
+A-|--------------------------------------------
+E-|--------------------------------------------
+
 
 ===============================================================================
 LISTEN & PLAY
@@ -58,11 +199,9 @@ CHORUS
 ABOUT THIS SONG
 ===============================================================================    
 
-Song: ____
-Artist: ____
-Album: ____
-Released: Month Day, Year
-Label: ____
-Wikipedia URL: ____
-Rdio URL: ____
-YouTube (official video): ____
+Song: When The Man Comes Around
+Artist: Johnny Cash
+Album: American IV: The Man Comes Around
+Released: 2002
+Label: American Recordings / Universal
+Wikipedia URL: http://en.wikipedia.org/wiki/The_Man_Comes_Around_(song)
