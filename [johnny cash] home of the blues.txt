@@ -1,0 +1,151 @@
+HOME OF THE BLUES
+by Johnny Cash
+===============================================================================
+INTRO
+    e-|--7---5---4-2-0------------------------------0-----------
+    B-|----------------4-2--------------------------0--------2--
+    G-|--------------------4-2-1--------------------1--------2--
+    D-|--------------------------4-2-0--------------2--------2-- ...begin verse
+    A-|--------------------------------4-2-0--------2--------0--
+    E-|--------------------------------------4-2-0-----0-2-4----
+
+VERSE
+    A               B7             E (walkup)
+    Just around the corner there's heartache
+    A                    B7     E (walkup)
+    Down the street that losers use
+       A               B7          E 
+    If you can wade in through the teardrops
+           A              B7          E (walkup)
+    You'll find me at the home of the blues
+
+                          ...repeat same chords for each verse section
+
+    I walk and cry while my heartbeat
+    Keeps time with the drag of my shoes
+    The sun never shines through this window of mine
+    It's dark at the home of the blues
+
+BRIDGE
+                    A                                 E 
+        Oh, but the place is filled with the sweetest memories
+        B7                       E (walk up)
+        Memories so sweet that I cry
+        A                            E 
+        Dreams that I've had left me feeling so bad
+        F#                                      B7 
+        I just want to give up and lay down and die
+
+    So if you just lost your sweetheart
+    And it seems there's no good way to choose
+    Come along with me, misery loves company
+    You're welcome at the home of the blues
+
+    (instrumental verse with solo)
+
+    Just around the corner there's heartache
+    Down the street that losers use
+    If you can wade in through the teardrops
+    You'll find me at the home of the blues
+              
+                       A              B7          E            A   E 
+    Yeah, you're gonna find me at the home of the blues
+
+===============================================================================
+NOTES & TABS
+===============================================================================
+
+Guitar Chords Used
+Here's the guitar chords you'll need to play -- very straightforward I, IV, and V in the key of E -- though in the bridge you will need an F#, which is barre chord.
+
+e-|---0----0----2----2----
+B-|---0----2----0----2----
+G-|---1----2----2----3----
+D-|---2----2----1----4----
+A-|---2----0----2----4----
+E-|---0--------------2----
+      E    A    B7   F# 
+
+This is by no means required, but an alternative way to play the A, B7, and E-major chords (to match the lead guitar of the recorded version) is as follows. Listen along for reference regarding strumming and timing, of course.
+
+e-|---5---7---4----
+B-|---5---7---5----
+G-|---6---8---4----
+D-|---7---9---6----
+A-|----------------
+E-|----------------
+      A   B   E 
+
+Guitar Intro Riff
+Here's the guitar tab for the intro riff to this song. Note that you'll have the 4th fret used on each string -- so let that be your anchor (I let my pinky sit on the 4th fret for each string used).
+
+e-|--7-----5-----4--2--0--------------------------------------------0---
+B-|-----------------------4--2--------------------------------------0---
+G-|-----------------------------4--2--1-----------------------------1---
+D-|--------------------------------------4--2--0--------------------2---
+A-|-----------------------------------------------4--2--0-----------2---
+E-|--------------------------------------------------------4--2--0------
+
+Alternative version here, which is the exact same notes but changes which strings are used in the middle. Looking at the live version it seems this is what Cash's guitarist plays... but I prefer the version above to keep your hand from having to jump around. Use whichever you like.
+
+e-|--7-----5-----4--2--0--------------------------------------------0---
+B-|-----------------------4--2--0-----------------------------------0---
+G-|--------------------------------2--1-----------------------------1---
+D-|--------------------------------------4--2--0--------------------2---
+A-|-----------------------------------------------4--2--0-----------2---
+E-|--------------------------------------------------------4--2--0------
+
+Verse Walk-Up Riff
+For the verse sections throughout the song, you'll want to use this basic walkup on the low E-string to transition from the E-major to the A-major. Rinse and repeat, nice and simple.
+
+e-|--------------0------2------0--0---
+B-|--------------2------0------0--0---
+G-|--------------2------2------1--1---
+D-|--------------2------1------2--2---   ...repeat
+A-|-----------0------2---------2--2---
+E-|--0--2--4----------------0---------
+              A      B7     E 
+
+===============================================================================
+LISTEN & PLAY
+===============================================================================
+
+Johnny Cash Album Version
+Here's the original album version of this song, along with lyrics for reference.
+https://www.youtube.com/watch?v=h_A1s2BYRHU
+
+Live Johnny Cash Version from 1958
+Very cool to see! Old black and white version from a TV show.
+https://www.youtube.com/watch?v=cmIvIOjVtJs
+
+"Walk the Line" Soundtrack Version
+As sung by Joaquin Phoenix from the motion picture soundtrack.
+https://www.youtube.com/watch?v=tPQJIxEy3kA
+
+===============================================================================
+CHORD PROGRESSIONS
+===============================================================================
+
+VERSE
+"Just around the corner there's heartache..."
+| A . . . | B7 . . . | E . . . | E . . . |
+                                 ...repeat
+
+Bridge
+"Oh, but the place is filled with the sweetest memories..."
+| A  . . . | A  . . . | E  . . . | E  . . . |
+| B7 . . . | B7 . . . | E  . . . | E  . . . |
+| A  . . . | A  . . . | E  . . . | E  . . . |
+| F# . . . | F# . . . | B7 . . . | B7 . . . |
+
+===============================================================================
+ABOUT THIS SONG
+===============================================================================    
+
+Song: Home of the Blues
+Artist: Johnny Cash
+Album: Sings the Songs That Made Him Famous
+Released: 1957
+Label: Sun
+Wikipedia URL: http://en.wikipedia.org/wiki/Home_of_the_Blues
+Rdio URL: http://rd.io/x/QVzN1jdbiBs/
