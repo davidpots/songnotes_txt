@@ -1,0 +1,189 @@
+TURTLES ALL THE WAY DOWN
+by Sturgill Simpson
+===============================================================================
+VERSE
+              E 
+    I've seen Jesus play with flames, in a lake of fire
+                        A     Asus4 
+    That I was standing in
+            B7 
+    Met the devil in Seattle
+                                           E        Esus4
+    And spent nine months inside the lions... den 
+    
+        E 
+    Met Buddha yet another time
+                                           A    Asus4 
+    And he showed me the glowing light within 
+    B7 
+    But I swear that God is there, every time I glare
+                             E            Esus4 
+    Into the eyes of my best... friend 
+
+REFRAIN
+        A 
+        Says my son, it's all been done
+                                             E        Esus4 
+        Someday you're gonna wake up old and... gray
+           A 
+        So go and try to have some fun, showing warmth to everyone 
+                                                  B7    (walk down)
+        You meet and greet... and cheat along the way
+  
+              E 
+    There's a gateway in our minds that leads somewhere out there
+                    A      Asus4 
+    Far beyond this plane 
+          B7 
+    Where reptile aliens made of light
+                                    E      Esus4 
+    Cut you open, pull out all your pain 
+    
+            E 
+    Tell me how you make illegal
+                                      A       Asus4 
+    Something that we all make in our brain
+         B7 
+    Some say you might go crazy
+                                     E         Esus4 
+    Then again, it might make you go... sane 
+       
+        A 
+        Every time I... take a look... inside that old and... fabled book 
+            A 
+        I'm blinded and... reminded of...
+                                               E    Esus4 
+        The pain caused by some old man in the sky
+        A 
+        Marijuana... LSD... psilocybin... DMT...
+        A 
+        They all changed... the way I see... 
+            A                                           B7    (walk down)
+        But love's the only thing... that ever saved my life 
+
+              E 
+    So, don't waste your mind on nursery rhymes or fairy tales of blood and wine 
+         A               G#m          F#m 
+    It's turtles all the way down the line 
+          A 
+    So to each their own til' we go home... to other realms our souls must roam 
+    A                                                 B7        E 
+    To and through... the myth that... we all call... space and time
+
+                                                (let final chord ring)
+
+===============================================================================
+NOTES & TABS
+===============================================================================
+
+Guitar Chords Used
+Here are tabs for the guitar chords use to play this song. With the exception of one part at the end, you're using A, E, and B7 for the entirety of the song. There several sus4 flourishes used throughout, as well (for the E- and A-chords). These aren't necessarily required, though they help if you want to capture the guitar sound hear on the album. I'm also including the G#m and F#m, which make an appearance at the end of the song.
+
+e-|----0---0---2----|----4-----2---
+B-|----0---2---0----|----4-----2---
+G-|----1---2---2----|----4-----2---
+D-|----2---2---1----|----6-----4---
+A-|----2---0---2----|----6-----4---
+E-|----0------------|----4-----2---
+       E   A   B7       G#m   F#m 
+
+The most straightforward way to play sus4 chords is as follows. For both sus4 chords shown below, you'll typically be using your pinky to add the extra note.
+
+e-|----0-----0------|---0-----0----
+B-|----0-----0------|---2-----3----
+G-|----1-----2------|---2-----2----
+D-|----2-----2------|---2-----2----
+A-|----2-----2------|---0-----0----
+E-|----0-----0------|--------------
+       E   Esus4        A   Asus4 
+
+A more advanced way to play the Asus4 is as follows -- and this is closer to what Sturgill Simpson plays if you watch a live recording. Here, you're going to bar the 2nd fret with your index finger (don't play the highest E-string) and use your middle and ring fingers to add the extra flourish to the A-chord. You may find this unnecessary at first, but with practice the extra fingers this approach frees up can be extremely worthwhile.
+
+e-|---x---                                  ----x----
+B-|---2---       Use index finger           ----3----  <--- add middle finger
+G-|---2---  <--- to barre all               ----4----  <--- add ring finger
+D-|---2---       2nd fret notes             ----2----
+A-|---0---                                  ----0----
+E-|-------                                  ---------
+      A                                       Asus4 
+
+Playing the Refrain Walk Down
+In each refrain section of the song, the final B7-chord has a "walk down" transition back to the E-chord that each verse starts with. This is another optional item that isn't strictly required, but it can sound cool and be a good little riff to practice. Here are a few ways to approach it.
+
+The simplest is to play just a single bass note of each walk down "step" between the B7 and the E. It looks like Sturgill Simpson does this (though he has the backup of a drummer and bassist, at least in the video I saw).
+
+e-|----2--------------------0----
+B-|----0--------------------0----
+G-|----2--------------------1----
+D-|----1--------------------2----
+A-|----2-------2--0---------2----
+E-|------------------4--2---0----
+       B7                   E 
+
+A fancier way to play it is to use barre chords for the B, A, G#m, and F#m-chords used that take you back down to E. Here's how you'd do this.
+
+e-|---7----5----4----2----0---
+B-|---7----5----4----2----0---
+G-|---8----6----4----2----1---
+D-|---9----7----6----4----2---
+A-|---9----7----6----4----2---
+E-|---7----5----4----2----0---
+      B    A   G#m  F#m   E 
+
+A final approach is this one, which is largely the same except for a B7 used right before the final E. Also, I'd recommend practicing this with only the highest 4 strings being played. This seems to match what is heard on the second of the two walkdowns on the album (you can hear the B7 thrown in just before the E).
+
+e-|---7----5----4----2----2----0---
+B-|---7----5----4----2----4----0---
+G-|---8----6----4----2----2----1---
+D-|---9----7----6----4----4----2---
+A-|----------------------------2---
+E-|----------------------------0---
+      B    A   G#m  F#m   B7   E 
+       
+
+===============================================================================
+LISTEN & PLAY
+===============================================================================
+
+Official Music Video
+Here's the album version of the song, for reference and listening pleasure.
+https://www.youtube.com/watch?v=LWx6csgGkg4
+
+Live Sturgill Simpson Version
+Here's a live version of the song, which is helpful for watching how Sturgill Simpson plays it on guitar.
+https://www.youtube.com/watch?v=6oAf0kQRlLk
+
+Cover Version
+Here's what seems to be (as of this posting) the only cover of this song found on all of YouTube. Helpful to see how someone else approaches it.
+https://www.youtube.com/watch?v=c_nbTN9N4xM
+
+NPR Article for "Metamodern Sounds In Country Music"
+Here's a great little NPR story and interview with Sturgill Simpson in the weeks before this album came out. http://www.npr.org/blogs/therecord/2014/04/17/304075384/god-drugs-and-lizard-aliens-yep-its-country-music
+
+===============================================================================
+CHORD PROGRESSIONS
+===============================================================================
+
+VERSE
+"I've seen Jesus play with flames..."
+| E  . . . | . . . . | A . . . | . . . . |
+| B7 . . . | . . . . | E . . . | . . . . |
+
+REFRAIN
+"Says my son, it's all been done..."
+| A  . . . | . . . . | . . . . | . . . . |
+| E  . . . | . . . . | . . . . | . . . . |
+| A  . . . | . . . . | . . . . | . . . . |
+| B7 . . . | . . . . | . . . . | . . . . |
+
+===============================================================================
+ABOUT THIS SONG
+===============================================================================    
+
+Song: Turtles All The Way Down
+Artist: Sturgill Simpson
+Album: Metamodern Sounds in Country Music
+Released: 2014
+Label: High Top Mountain Records
+Rdio URL: http://rd.io/x/QVzN1jdd4fu9/
+YouTube (official video): https://www.youtube.com/watch?v=LWx6csgGkg4
