@@ -17,7 +17,7 @@ VERSE
     There'll be a golden ladder reaching down
     F           G         C5
     ...When the man comes around
-    
+
         C5
     The hairs on your arm will stand up
            C5
@@ -28,7 +28,7 @@ VERSE
     Or disappear into the potter's ground
     F           G          C
     ...When the man comes around
-    
+
 CHORUS
         C 
         Hear the trumpets, hear the pipers
@@ -42,7 +42,7 @@ CHORUS
         Some are born and some are dying
              G                           C
         It's alpha's and omega's kingdom come
-        
+
                 F                   C 
         And the whirlwind is in the thorn tree
             C5
@@ -51,40 +51,40 @@ CHORUS
         The whirlwind is in the thorn tree
              C5 
         It's hard for thee to kick against the pricks
-    
+
     (use same verse & chorus chords in each section below)
-    
+
     'Til Armageddon, no Shalam, no Shalom
     Then the father hen will call his chickens home
     The wise men will bow down before the throne
     And at his feet they'll cast their golden crown
     When the man comes around
-    
+
     Whoever is unjust, let him be unjust still
     Whoever is righteous, let him be righteous still
     Whoever is filthy, let him be filthy still
     Listen to the words long written down
     When the man comes around
-    
+
         Hear the trumpets, hear the pipers
         One hundred million angels singing
         Multitudes are marching to the big kettle drum
         Voices calling, voices crying
         Some are born and some are dying
         It's alpha's and omega's kingdom come
-        
+
         And the whirlwind is in the thorn tree
         The virgins are all trimming their wicks
         The whirlwind is in the thorn tree
         It's hard for thee to kick against the pricks
-    
+
        C5                               Am
     In measured hundredweight and penny pound
     F           G          C5     ...    G  C
     ...When the man comes around
-    
+
     (let final C-chord ring to end)
-    
+
 OUTRO
     (spoken, no chords)
     And I heard a voice in the midst of the four beasts, and I looked and behold: a pale horse. And his name, that sat on him, was Death. And Hell followed with him.
@@ -104,22 +104,19 @@ A-|---3---3---0---3---2---
 E-|---------------1---3---
       C5  C   Am  F   G 
 
-***
   
-Alternate Positions for the C5 Chord
-Here's a few more pointers on playing the C5 chord heard throughout this song (mainly in the verses, but also in the choruses). Cash plays these parts very rhymthically, with muted strumming used to great effect to accompany his near-spoken-word lyrics. I play the C5 with either of the following finger positions:
+  
+  
+  
+  
+  
+  
+    
+Verse C5-Riff, Simplified
+---------------
 
-e-|---x---    ---x---    ---x---
-B-|---x---    ---x---    ---x---
-G-|---5---    ---5---    ---x---
-D-|---5--- or ---5--- or ---2---
-A-|---3---    ---3---    ---3---
-E-|-------    ---3---    ---3---
-      C5         C5         C5 
-
-The second version above adds the 6th string "G" bassnote, which you can sometimes hear Cash hit as an alternating bassnote. Note that this is tricky to pull off -- but even if you don't alternate betweeen the C- and G-bassnotes, adding this bottom note adds a but more fullness to the chord. Also, note that I play these 3rd fret notes by barring my index finger on the lowest two strings. If you want to stick to the usual C-position for the C5-chord, try the third version -- basically focus on the lowest of the strings of the C-chord. Finally, listen along for reference!
-
-***
+Verse C5-Riff, Advanced
+--------------
 
 Strumming the C5 Chord
 
@@ -138,7 +135,17 @@ E-|---------------------------------------------------------------------------
      v     v  ^  v  ^  v  ^  v     v  ^  v  ^  v  ^  v     v  ^  v  ^  v  ^  
      1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  1  +  2  +  3  +  4  +  
 
-***
+
+
+
+
+
+
+
+
+
+
+
      
 Obviously, listening along and practicing is the key to getting this down. It isn't simple, but I hope this text formatting helps get you started.
 
