@@ -18,28 +18,27 @@ VERSE
     There's so... many things that I have come to fear
     D                        A 
     ...Little voice says I'm going crazy
-           G              D      A      D   A    
+           G              D      A      D   A 
     To see all my worlds... disappear
 
-    D                    A
+    D                    A 
     ...Vague sketch of a fantasy
     G                             D            A 
     Laughing at the sunrise, like he's been up all night
-    D                    A
+    D                    A 
     ...Ooh, slipping and sliding
            G                   D              A 
     What a good time but now I have to find a bed... 
-                            D       Em     D     Em
+                            D       Em7     D     Em7 
       ...That can take this weight
 
 INSTRUMENTAL / SOLO
 
-          D . . . A . . . G . . . D . A . 
           D . . . A . . . G . . . D . A .
-          A . . . A . . . D . G . D . G .
+          D . . . A . . . G . . . D . A .
 
-          Em . . . Em . . . A . . . A . . . 
-          Em . . . Em . . . A . . . A . . . 
+          Em . . . Em . . . A . . . A . . .
+          Em . . . Em . . . A . . . A . . .
 
                                 (...with bass walk-down on final A-chord)
 
@@ -56,18 +55,18 @@ INSTRUMENTAL / SOLO
     ...Oh, dear lady
               G            D             A 
     Won't you stay with me just a little longer
-    D                                                     A  
+    D                                                     A 
     ...You know it always seems, always seems like you're leaving
-           G                D             A       
+           G                D             A 
     When I--- need you here just a little longer
 
         D      A     D  A   D         A 
         ...La, la... la la, la-la-la, la...
-        D      A     D  A             D
+        D      A     D  A             D 
         La La, la... la la, la-la-la, la...
         D      A     D  A   D         A 
         La La, la... la la, la-la-la, la...
-        D      A     D  A             D
+        D      A     D  A             D 
         La La, la... la la, la-la-la, la...
  
                               (let ending chord ring on final "la")
@@ -76,9 +75,19 @@ INSTRUMENTAL / SOLO
 NOTES & TABS
 ===============================================================================
 
-
+Guitar Chords Used
+Here's how to play the guitar chords used in this song. With the exception of a few uses of E-minor, you can get away with only needing D, G, and A-major for the entire song. The difficult part is playing / strumming these relatively few chords in a way that does justice to the sparse intimacy of the song.
+e-|---2---0---3---0----0---
+B-|---3---2---0---0----3---
+G-|---2---2---0---0----0---
+D-|---0---2---0---2----2---
+A-|-------0---2---2--------
+E-|-----------3---0--------
+      D   A   G   Em  Em7 
+      
 
 Transition from Verse to Solo
+Here is how I play the D-Em7 section that occurs just before the solo/instrumental section. The chord of note here is the Em7-chord, which I play as follows. Note, you can also add a F#-bassnote to the second D-chord in this series, which would create a D-Em-F#m-Em sound (emphasize the walking up-then-down bassnote).
 
 e-|----------------2------0------2------0----|----2-----0-----3-----2----0---
 B-|----------------3------3------3------3----|----3-----2-----0-----3----2---
@@ -86,10 +95,11 @@ G-|----------------2------0------2------0----|----2-----2-----0-----2----2---
 D-|----------------0------2------0------2----|----0-----2-----0-----0----2---
 A-|------------------------------------------|----------0-----2----------0---
 E-|------------------------------------------|----------------3--------------
-                   D      Em     D      Em        D     A     G     D    A 
+                   D      Em7    D      Em7       D     A     G     D    A 
      "...take this weight..."                   (solo/instrumental section)
 
 Walk-down Transition from Solo to Verse
+Here's how I play the transition from the solo/instrumental section back to the verse -- mainly, the walkdown. You can do it in a few different ways. One approach is maintaining the A-chord (barre it with your index finger) and use your pinky and ring fingers to walk the bassnote down:
 
 e-|-----------------------------|---2--------0------------
 B-|-------2-----2-----2-----2---|---3--------2------------
@@ -97,36 +107,67 @@ G-|-------2-----2-----2-----2---|---2--------2------------
 D-|-------2-----2-----2-----2---|---0--------2------------   etc
 A-|----0------------------------|------------0------------
 E-|----------3-----2-----0------|-------------------------
-       A    /G#   /F#   /E          D        A 
+       A    /G    /F#   /E          D        A 
                                        "Good feeling..."
+
+Alternatively, you can change the chords as you walk down and go from A-G-F#m-Em leading back to the D-chord that starts the next verse. Take your pick.
+
+e-|------0-----3-----2-----0---|---2--------0-----------
+B-|------2-----0-----2-----0---|---3--------2-----------
+G-|------2-----0-----2-----0---|---2--------2-----------
+D-|------2-----0-----4-----2---|---0--------2-----------   etc
+A-|----0-------2-----4-----2---|------------0-----------
+E-|----------3-----2-----0-----|------------------------
+       A     G     F#m   Em        D        A 
+                                       "Good feeling..."
+
+Optional Riff During Solo
+Another riff of note is this subtle bassline riff you hear during the E-minor chord of the solo/instrumental section. Here's the tab for that riff. Optional and not fully necessary, but in case it is what your'e looking for -- here you go!
+
+e-|---0-------------------------------------------0---
+B-|---0-------------------------------------------2---
+G-|---0-------------------------------------------2---
+D-|---2----0--2--4----2--4--2----4--2--4----2--0--2---  ...repeat
+A-|---2-------------------------------------------0---
+E-|---0-----------------------------------------------
+      Em                                          A 
 
 ===============================================================================
 LISTEN & PLAY
 ===============================================================================
 
-...
+Violent Femmes Album Version
+Here's the official Violent Femmes album version of this song, for listening reference.
+https://www.youtube.com/watch?v=XdFHQoGLPHg&feature=kp
+
+Cover Versions
+Here are a few cover versions of note. They may be helpful in seeing how others approach this on an acoustic guitar (since the album version is piano based and not immediately obvious how to translate to playing on guitar).
+https://www.youtube.com/watch?v=veSzruC0phM
+https://www.youtube.com/watch?v=1JqjXyIpOwk
 
 ===============================================================================
 CHORD PROGRESSIONS
 ===============================================================================
 
 VERSE
-| . . . . | . . . . | . . . . | . . . . |
+"Good feeling, won't you stay with me..."
+| D . . . | A . . . | G . . . | D . A . |
+| D . . . | A . . . | G . . . | D . A . |
+| D . . . | A . . . |
 
-CHORUS
-"Lorem ipsum dolor sit amet..."
-| . . . . | . . . . | . . . . | . . . . |
-| . . . . | . . . . | . . . . | . . . . |
+INSTRUMENTAL/SOLO
+| D  . . . | A  . . . | G . . . | D . A . |
+| D  . . . | A  . . . | G . . . | D . A . |
+| Em . . . | Em . . . | A . . . | A . . . |
+| Em . . . | Em . . . | A . . . | A . . . |
 
 ===============================================================================
 ABOUT THIS SONG
 ===============================================================================    
 
-Song: ____
-Artist: ____
-Album: ____
-Released: Month Day, Year
-Label: ____
-Wikipedia URL: ____
-Rdio URL: ____
-YouTube (official video): ____
+Song: Good Feeling
+Artist: Violent Femmes
+Album: Violent Femmes
+Released: 1983
+Label: Slash
+Rdio URL: http://rd.io/x/QVzN1jdM3tk/
