@@ -1,0 +1,155 @@
+PANBOWL
+by Sturgill Simpson
+===============================================================================
+
+(capo 2nd fret)
+
+INTRO
+    C 
+
+VERSE
+    C                    F                        C 
+    I'd give anything to go back... to days I was young
+            C           G      C 
+    All the way back to old Panbowl
+        C                         F              C 
+    I'd sit down on the lake bed... stare at the sun
+             C                             G          C 
+    Then I'd walk out in the water, let it cleanse my soul
+
+             C                         F               C 
+    Spend my days up on Quicksie, and... there I would play
+    C                      G                C 
+    Wild as a rattlesnake... right from the start
+        C                    F           C 
+    I'd push August in, and... swing all day
+          C                           G        C 
+    Well, she was the first girl ever broke my heart
+
+CHORUS
+                 F 
+        Miss the days when this old life
+                      C 
+        Was free from all this pain and strife
+            C                         G 
+        And all---- the sorrow it has brung
+        
+                 F 
+        I'd give anything to go
+                C              F 
+        All the way back to Panbowl
+                C           G               C 
+        All the way back to days when I was young
+
+             C                                  F             C 
+    Spend my summers hearing stories, about the one that got away
+           C                              G             C 
+    On the dock down at Watt's bar every... fourth of July
+          C                              F             C 
+    Uncle Everett was the coolest, never had a word to say
+            C                            G          C 
+    When he died, s'the only time I ever seen Papaw cry
+
+          C                             F            C 
+    Every Sunday we'd go visit my great grandma Mary Ann
+            C                               G               C 
+    Lord, I cry---- just thinking 'bout how good she was to me
+             C                      F             C 
+    My great granddad Elijah was a... coal mining man
+          C                          G             C 
+    Not a tooth in his head, but his eyes held the sea
+
+                 F 
+        Miss the days when this old life
+                      C 
+        Was free from all this pain and strife
+            C                         G 
+        And all---- the sorrow it has brung
+        
+                 F 
+        I'd give anything to go
+                C              F 
+        All the way back to Panbowl
+                C           G               C 
+        All the way back to days when I was young
+
+INSTRUMENTAL BREAK
+
+            Am . . . Am . . . C . . . C . . . 
+            Am . . . Am . . . G . . . G . . . 
+                                              (let final G ring)
+
+ENDING
+    (let all chords ring)
+        F                                  C 
+    I'd climb up on High Top, stare out as far as I could see
+           C                    G              C 
+    At the one and only home my heart has ever known
+
+===============================================================================
+NOTES & TABS
+===============================================================================
+
+Capo 2nd Fret, Standard Tuning
+To play along with the Sturgill Simpson record, you'll need to play the chords above with a capo on the 2nd fret of your guitar. The capo is optional, otherwise -- you don't need it (or can put it on a different fret) -- but you'll sound out of tune if you try to play along with the record. If you don't have a capo and want to play along, play in the key of D (C becomes D, F becomes G, G becomes A, and Am becomes Bm).
+
+Guitar Chords Used
+Here's how to play the guitar chords used in this song. Very straightforward stuff in the key of C. Of course, you can add any embellishments as you see fit -- but this should get you started nicely.
+
+e-|---0---1---3---0---
+B-|---1---1---0---1---
+G-|---0---2---0---2---
+D-|---2---3---0---2---
+A-|---3---3---2---0---
+E-|-------1---3-------
+      C   F   G   Am 
+
+Intro Strumming Tab
+To play the strumming pattern & bassline riff heard on the album in the intro (and during the verses at times), refer to this tab. This shows an alternating bass note (between the 5th and 4th string) and a frequent hammer-on of the middle finger onto the 4th string's E note. Note, the hammer-on isn't used 100% of the time -- though this isn't about an exact science. Listen along for the idea and use this as you see fit.
+
+e-|------0-0------0-0----0-0--------0-0----0-0-------0-0----0-0-------0-0---
+B-|------1-1------1-1----1-1--------1-1----1-1-------1-1----1-1-------1-1---
+G-|------0-0------0-0----0-0--------0-0----0-0-------0-0----0-0-------0-0---
+D-|------2-2---2---------2-2---0h2---------2-2---0h2--------2-2---0h2-------
+A-|---3----------------3-----------------3----------------3-----------------
+E-|-------------------------------------------------------------------------
+      C 
+
+===============================================================================
+CHORD PROGRESSIONS
+===============================================================================
+
+INTRO
+| C . . . | C . . . | C . . . | C . . . |
+
+VERSE
+"I'd give anything to go back..."
+| C . . . | C . . . | F . . . | C . . . | C . . . |
+| C . . . | C . . . | G . . . | C . . . | C . . . |
+
+CHORUS
+"Miss the days when this old life..."
+| F . . . | F . . . | C . . . | C . . . | 
+| C . . . | C . . . | G . . . | G . . . | 
+| F . . . | F . . . | C . . . | F . . . | 
+| C . . . | G . . . | C . . . | C . . . | 
+
+INSTRUMENTAL
+| Am . . . | Am . . . | C . . . | C . . . |
+| Am . . . | Am . . . | G . . . | G . . . |
+
+ENDING
+"I'd climb up on High Top..."
+| F . . . | F . . . | C . . . | C . . . |
+| C . . . | C . . . | G . . . | C . . . |
+
+===============================================================================
+ABOUT THIS SONG
+===============================================================================    
+
+Song: Panbowl
+Artist: Sturgill Simpson
+Album: Metamodern Sounds in Country Music
+Released: 2014
+Label: High Top Mountain Records
+Rdio URL: http://rd.io/x/QVzN1jddsMOX/
