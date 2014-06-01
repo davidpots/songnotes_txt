@@ -2,49 +2,49 @@ STEP
 by Vampire Weekend
 ===============================================================================
 
-(capo 3rd fret / actual key Bb)
+(capo 3rd fret)
 
 INTRO
     (no chord)    
     Every time I see you in the world, you always step to my girl
 
-    G ... G/F# ... Em ... D ...
-    C ... G    ... C  ... D ...    
+    G ... D/F# ... Em ... Bm/D ...
+    C ... G    ... C  ... D    ...    
                         (played twice)
 
 VERSE
-    G                                 G/F# 
+    G                                 D/F# 
     Back, back, way back... I used to front like Angkor Wat
-    Em                            D 
+      Em                          Bm/D 
     Mechanicsburg, Anchorage, and Dar es Salaam
           C                    G 
     While home in New York was champagne and disco
     C               D 
     Tapes from L.A. slash San Francisco
 
-        G                    G/F#
+        G                    D/F# 
     But actually Oakland and not Alameda
-    Em                                 D 
+         Em                            Bm/D 
     Your girl was in Berkeley with her Communist reader
     C                        G 
     Mine was entombed within boombox and walkman
-    C                   D                        G     G/F#    Em   D
+    C                   D                        G     D/F#    Em   D 
     I was a hoarder but girl that was back then... (ba-dum, ba-dum, dum)
 
-            G                   G/F#                Em           D   
+            G                   D/F#                Em           Bm/D 
         The gloves are off, the wisdom teeth are out... what you on about?
-          C             G        C             D
+          C             G        C             D 
         I feel it in my bones, I feel it in my bones
-            G                 G/F#               Em         D 
+            G                 D/F#               Em         Bm/D 
         I'm stronger now, I'm ready for the house... such a modest mouse
           C            G       C            D 
         I can't do it alone, I can't do it alone
 
         (let chords ring / quieter strumming)
-        G                G/F#                  
-        Every time I see you in the world
-            Em                D        C   G   C   D
-        You always step to my girl...        
+        G                D/F#                  Em                Bm/D    C G C D 
+        Every time I see you in the world, you always step to my girl...        
+
+    (repeat same progression for remaining verses & choruses)
 
     Ancestors told me that their girl was better
     She's richer than Croesus, she's tougher than leather
@@ -61,7 +61,7 @@ VERSE
         I'm stronger now, I'm ready for the house... such a modest mouse
         I can't do it alone, I can't do it alone
 
-        (silent progression x1)
+        (instrumental chord progression x1)
 
     Wisdom's a gift, but you'd trade it for youth
     Age is an honor, it's still not the truth
@@ -92,33 +92,65 @@ VERSE
 NOTES & TABS
 ===============================================================================
 
-SECTION ONE
-Lorem ipsum dolor sit amet.
+Capo 3rd Fret, Standard Tuning
+This song is in Bb, which isn't a fun key to play on guitar. So, if you add a capo to the 3rd fret and play the chords (in the key of G) as I show here, you'll be in tune with the album. You don't need to use a capo if you don't want -- and these chords by themselves will work fine, you'll just be in a different key from the album.
 
-e-|----------------------------------------------------------------------------
-B-|----------------------------------------------------------------------------
-G-|----------------------------------------------------------------------------
-D-|----------------------------------------------------------------------------
-A-|----------------------------------------------------------------------------
-E-|----------------------------------------------------------------------------
+Guitar Chords Used
+Here's how to play the basic guitar chords used in this song. General note: you have flexibility here. You can replace the D/F# with a normal D, or likewise a G/F#. Likewise, the Bm/D can be replaced with a normal D or Bm. This is a chord progression that is pretty tough to make sound bad. Have at it your own way, to the extent you see fit.
+
+e-|----3-----2-----0-----2-----0----2----
+B-|----0-----3-----0-----3-----1----3----
+G-|----0-----2-----0-----4-----0----2----
+D-|----0-----0-----2-----0-----2----0----
+A-|----2-----0-----2-----------3---------
+E-|----3-----2-----0---------------------
+       G    D/F#   Em   Bm/D   C    D 
+       
+
+Chord Positions for Fingerpicked Bass Walk-Down
+Here's how I like to play things. For each of these chords, I'm usually using a finger picking pattern that takes me from the bass note (played first for each chord) up to the higher strings. These chord positions help emphasize the walking (downward) bass note.
+
+e-|---------3-------2-------0-------2-----------------------------------2---
+B-|-------3-------3-------0-------3--------1---------0--------1-------3-----
+G-|-----4-------2-------0-------4--------0---------0--------0-------2-------
+D-|---5-------4-------2-------0--------2---------0--------2-------0---------
+A-|----------------------------------3---------2--------3-------------------
+E-|-------------------------------------------------------------------------
+      G       D/F#    Em      Bm/D   C         G/B      C         D 
+
+Chords for Playing in the Key of A (Capo 1st Fret)
+I'm also a fan of practicing this song in the key of A, which uses a capo on the 1st fret. This makes good use of the E/G# chord, which is tough to initially learn but fun to practice (hint: bar the middle strings of the 2nd fret with your index finger on the E/G# and also the A that precedes it). Here's the entire progression:
+
+e-|----------------2-----0----2----0----2----0----
+B-|---2-----5------2-----0----3----2----3----0----
+G-|---2-----4------2-----1----2----2----2----1----
+D-|---2-----2------4-----2----0----2----0----2----
+A-|---0-----x------4-----2---------0---------2----
+E-|---------4------2-----0-------------------0----
+      A    E/G#   F#m    E    D    A    D    E 
+    
 
 ===============================================================================
 LISTEN & PLAY
 ===============================================================================
 
-...
+Official Lyric Video
+https://www.youtube.com/watch?v=_mDxcDjg9P4
+
+Recommended Guitar Lesson
+Adlai Alexander: https://www.youtube.com/watch?v=-Uh5XSmg288
+Shawn Perotte: https://www.youtube.com/watch?v=892ralYF70s
+
+Recommended Cover Version
+Key of A: https://www.youtube.com/watch?v=13CGDAMXuv0
 
 ===============================================================================
 CHORD PROGRESSIONS
 ===============================================================================
 
-VERSE
-| . . . . | . . . . | . . . . | . . . . |
-
-CHORUS
-"Lorem ipsum dolor sit amet..."
-| . . . . | . . . . | . . . . | . . . . |
-| . . . . | . . . . | . . . . | . . . . |
+Into / Verse / Chorus
+| G ... | D/F# ... | Em ... | Bm/D ... |
+| C ... | G    ... | C  ... | D    ... |   
 
 ===============================================================================
 ABOUT THIS SONG
@@ -129,6 +161,5 @@ Artist: Vampire Weekend
 Album: Modern Vampires of the City
 Released: May 13, 2013
 Label: XL
-Wikipedia URL: _____
-Rdio URL: _____
-YouTube (offical video): _____
+Rdio URL: http://rd.io/x/QVzN1jdetbcg/
+YouTube (offical video): https://www.youtube.com/watch?v=_mDxcDjg9P4
