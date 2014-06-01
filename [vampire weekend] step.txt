@@ -8,8 +8,8 @@ INTRO
     (no chord)    
     Every time I see you in the world, you always step to my girl
 
-    G ... D/F# ... Em ... Bm/D ...
-    C ... G    ... C  ... D    ...    
+    G ... D/F# ... Em ... Bm/D ... 
+    C ... G    ... C  ... D    ... 
                         (played twice)
 
 VERSE
@@ -31,6 +31,7 @@ VERSE
     C                   D                        G     D/F#    Em   D 
     I was a hoarder but girl that was back then... (ba-dum, ba-dum, dum)
 
+CHORUS
             G                   D/F#                Em           Bm/D 
         The gloves are off, the wisdom teeth are out... what you on about?
           C             G        C             D 
@@ -40,7 +41,7 @@ VERSE
           C            G       C            D 
         I can't do it alone, I can't do it alone
 
-        (let chords ring / quieter strumming)
+        (let chords ring / quieter)
         G                D/F#                  Em                Bm/D    C G C D 
         Every time I see you in the world, you always step to my girl...        
 
@@ -85,7 +86,7 @@ VERSE
         I'm stronger now, I'm ready for the house... such a modest mouse
         I can't do it alone, I can't do it alone
 
-        (let chords ring / quieter strumming)
+        (let chords ring / quieter)
         Every time I see you in the world, you always step to my girl
 
 ===============================================================================
@@ -135,14 +136,19 @@ LISTEN & PLAY
 ===============================================================================
 
 Official Lyric Video
+Here's the official album version of this song, with lyrics. Made by Vampire Weekend's official channel so you know it is legit.
 https://www.youtube.com/watch?v=_mDxcDjg9P4
 
 Recommended Guitar Lesson
-Adlai Alexander: https://www.youtube.com/watch?v=-Uh5XSmg288
-Shawn Perotte: https://www.youtube.com/watch?v=892ralYF70s
+Here's a guitar lesson for this song by Adlai Alexander. Great if you want a close-up of how to play the progression.
+https://www.youtube.com/watch?v=-Uh5XSmg288
+
+Likewise, here is a similar lesson from Shawn Perotte. Largely the same with a few small differences in the chords used. Remember, you can get away with tweaking the chords a bit -- this general progression is flexible.
+https://www.youtube.com/watch?v=892ralYF70s
 
 Recommended Cover Version
-Key of A: https://www.youtube.com/watch?v=13CGDAMXuv0
+Here's a great solo acoustic cover of this song. Note, it is played with a capo on the 1st fret (which means it uses chords in the key of A). Nice job by this guy.
+https://www.youtube.com/watch?v=13CGDAMXuv0
 
 ===============================================================================
 CHORD PROGRESSIONS
